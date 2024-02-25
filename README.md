@@ -5,4 +5,4 @@ I possess a strong background in graphic design and am currently a student. I ha
 
 ![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)
 
-![GIF](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/0738553c-21bf-442d-87ad-cf5bc7fa886b)
+![GIF17an](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/27a64c7e-fc45-497f-bb50-041a7df64262)
