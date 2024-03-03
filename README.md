@@ -1,5 +1,7 @@
 ### Hi, I am Sulaiman 👋
 
+- 🌱 I’m currently learning **Graphic Design & Programming**
+
 <hr>
 
 I am a passionate student with a keen interest in the dynamic world of Graphic Design and Programming.</br>
