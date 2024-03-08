@@ -3,6 +3,8 @@
 </h1>
 
 - 🌱 I’m currently learning **Graphic Design & Programming**
+- 🇮🇩 Iya
+
 
 I am a passionate student with a keen interest in the dynamic world of Graphic Design and Programming.
 Learning </br>
