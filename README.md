@@ -7,16 +7,12 @@
 I am a passionate student with a keen interest in the dynamic world of Graphic Design and Programming.
 Learning </br>
 [Graphic Communication](https://www.nafa.edu.sg/programmes/diploma-in-graphic-communication) at NAFA University, Singapore. I possess a strong background in graphic design and am currently a student. I have garnered years of professional experience working with esteemed [Company](https://www.telkomsel.com/enterprise/) in Indonesia.
-
-<div align="center">
     
 <br>
 
 ## 🌐 Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/SulaimanAbdul) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nabdulaz_) 
-
-</div>
 
 <div align="center">
     
