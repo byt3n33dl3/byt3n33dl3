@@ -38,7 +38,7 @@ Learning </br>
 <p align="left"><br>
 
 <div align="center">
-  <h2>🪱 Watch he ate! 🪱</h2>
+  <h2>💎 Watch he ate! 💎</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
