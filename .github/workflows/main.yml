@@ -23,7 +23,7 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
     # Generates the snake  
       - uses: Platane/snk@master
@@ -39,15 +39,14 @@ jobs:
 
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v2.4.0 # Example: Updated to v2.4.0, replace with the actual latest version
         with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
