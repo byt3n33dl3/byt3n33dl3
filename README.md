@@ -40,5 +40,3 @@ Learning </br>
 <p align="left"><br>
 
 ## Watch snake eating my github contributions
-
-![snake gif](https://github.com/Sulaimannabdul/Sulaimannabdul/blob/output/github-contribution-grid-snake.gif)
