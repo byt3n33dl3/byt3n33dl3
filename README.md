@@ -18,8 +18,11 @@ Learning </br>
 
 </div>
 
+<div align="center">
+    
 ![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)
 
+</div>
 
 ![GIF17an](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/27a64c7e-fc45-497f-bb50-041a7df64262)
 <hr>
