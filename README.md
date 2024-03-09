@@ -18,6 +18,7 @@ Learning </br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/SulaimanAbdul) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nabdulaz_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-aziz/)
+<hr>
 
 <div align="center">
     
@@ -26,6 +27,7 @@ Learning </br>
 </div>
 
 ![GIF17an](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/27a64c7e-fc45-497f-bb50-041a7df64262)
+
 <hr>
 
 ![GIF](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/1598f575-3455-4004-b7af-f64db4ef8c1c)
