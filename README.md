@@ -8,7 +8,7 @@
 
 I am a passionate student with a keen interest in the dynamic world of Graphic Design and Programming.
 Learning </br>
-[Graphic Communication](https://www.nafa.edu.sg/programmes/diploma-in-graphic-communication) at NAFA University, Singapore.
+[Graphic Communication](https://www.nafa.edu.sg/programmes/diploma-in-graphic-communication) at NAFA University.
 <hr>
 
 <h3 align="center">  
@@ -59,6 +59,7 @@ Learning </br>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="CMD" width="30px" style="padding-right:10px;" src="https://help.apple.com/assets/63FFD63D71728623E706DB4F/63FFD63E71728623E706DB56/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=webp&w=512" />
+<img align="left" alt="SublimeText" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" />
 <br>
 
 
