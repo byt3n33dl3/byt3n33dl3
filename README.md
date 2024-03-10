@@ -62,9 +62,10 @@ Learning </br>
 <img align="left" alt="SublimeText" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" />
 <br>
 
+<hr>
+<br>
 
 <div align="center">
-    <br>
     
 ### 🐍 Snake Bite! 🐍
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
