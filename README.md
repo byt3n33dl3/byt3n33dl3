@@ -20,14 +20,17 @@ Learning </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-aziz/)
 
 <h1 align="center">
-    
+
 [![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)](https://www.telkomsel.com/enterprise/) </h1>
 
-![GIF17an](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/27a64c7e-fc45-497f-bb50-041a7df64262)
+![GIF](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/27a64c7e-fc45-497f-bb50-041a7df64262)
 
 ![GIF](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/1598f575-3455-4004-b7af-f64db4ef8c1c)
 <a id="user-content--languages-and-tools" class="anchor" aria-hidden="true" tabindex="-1" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
 <hr>
+
+
+<div align="center">
 
 ### 💻 Tech Stack
     
@@ -50,17 +53,18 @@ Learning </br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br>
+<div align="center">
 
 ### 🧰 Tools
 
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
-<img align="left" alt="KaliLinux" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="CMD" width="30px" style="padding-right:10px;" src="https://help.apple.com/assets/63FFD63D71728623E706DB4F/63FFD63E71728623E706DB56/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=webp&w=512" />
-<img align="left" alt="SublimeText" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" />
-<br><br>
+<img align="center" alt="VSCode" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
+<img align="center" alt="KaliLinux" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" />
+<img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="center" alt="CMD" width="30px" style="padding-right:10px;" src="https://help.apple.com/assets/63FFD63D71728623E706DB4F/63FFD63E71728623E706DB56/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" />
+<img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=webp&w=512" />
+<img align="center" alt="SublimeText" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" />
+</div>
+</br>
 
 <hr>
 
