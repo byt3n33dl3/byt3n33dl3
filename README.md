@@ -1,5 +1,8 @@
+![github head](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/a367fc3a-915c-4712-8ee2-fa04b71ed505)
+<hr>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋+;+I'm+Sulaiman+Abdul!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋+;+Welcome+to+my+Github!;" />
 </h1>
 
 - 🌱 I’m currently learning **Graphic Design & Programming**
