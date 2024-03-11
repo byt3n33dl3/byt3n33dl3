@@ -27,11 +27,11 @@ Learning </br>
     
 [![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)](https://www.telkomsel.com/enterprise/) </h1>
 
-<h1 align="center">
+<h2 align="center">
     
 ![17ankedua_1](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/eec4979e-b378-4b59-87af-d9e50249d5e1)
 
-![benergif-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/65786ca0-34d5-4575-b238-453a93b92e49) </h1>
+![benergif-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/65786ca0-34d5-4575-b238-453a93b92e49) </h2>
 <br>
 
 <div align="center">
@@ -60,9 +60,9 @@ Learning </br>
 <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="center" alt="SublimeText" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" />
 </div>
-</br>
 
 <hr>
+<br>
 
 <div align="center">
     
