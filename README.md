@@ -29,12 +29,13 @@ Learning </br>
 
 <h2 align="center">
     
-[![17ankedua_1](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/eec4979e-b378-4b59-87af-d9e50249d5e1)](https://www.instagram.com/telkomselenterprise/)
+![17ankedua_1](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/eec4979e-b378-4b59-87af-d9e50249d5e1)
 
-[![benergif-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/65786ca0-34d5-4575-b238-453a93b92e49)](https://www.instagram.com/telkomsel/) </h2>
-<br>
+![benergif-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/65786ca0-34d5-4575-b238-453a93b92e49) </h2>
+
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> 
 
 ### 💻 Tech Stack
 
