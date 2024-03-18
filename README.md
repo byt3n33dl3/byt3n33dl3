@@ -14,13 +14,6 @@
 I am a passionate student with a keen interest in the dynamic world of Graphic Design and Programming.
 Learning </br>
 [Graphic Communication](https://www.nafa.edu.sg/programmes/diploma-in-graphic-communication) at NAFA University. I am actively seeking opportunities in the fields. 🚀
-
-<div align="center">  
-    
-### 🌐 Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nabdulaz_)
-[![threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://www.threads.net/@nabdulaz_)
-
 <hr>
 
 <h6 align="center">
