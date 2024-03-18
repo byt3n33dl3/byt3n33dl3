@@ -54,8 +54,8 @@ Learning </br>
 
 <img align="center" alt="VSCode" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
 <img align="center" alt="KaliLinux" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" />
-<img align="center" alt="Intellij" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/P/pycharm-edu-logo-73119B2E09-seeklogo.com.png" />
-<img align="center" alt="CMD" width="30px" style="padding-right:10px;" src="https://help.apple.com/assets/63FFD63D71728623E706DB4F/63FFD63E71728623E706DB56/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" />
+<img align="center" alt="BackBox" width="30px" style="padding-right:10px;" src="https://freepngimg.com/thumb/gnome/59140-backbox-operating-systems-linux-distribution-mint.png" />
+<img align="center" alt="Command" width="30px" style="padding-right:10px;" src="https://help.apple.com/assets/63FFD63D71728623E706DB4F/63FFD63E71728623E706DB56/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" />
 <img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
 <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=webp&w=512" />
 <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
