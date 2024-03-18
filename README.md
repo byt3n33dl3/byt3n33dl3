@@ -70,5 +70,3 @@ Learning </br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 <div align="left">
-    
-[![](https://visitcount.itsvg.in/api?id=Sulaimannabdul&icon=9&color=0)](https://visitcount.itsvg.in)
