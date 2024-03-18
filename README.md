@@ -1,4 +1,6 @@
-[![github head](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/a367fc3a-915c-4712-8ee2-fa04b71ed505)](https://www.cisa.gov/stopransomware)
+<div align="center">
+    
+[![final](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/5358f0ca-3f26-4a48-a9be-24464218dfbe)](https://www.cisa.gov/topics/cyber-threats-and-advisories)</div>
 <hr>
 
 <h1 align="center">
@@ -11,7 +13,7 @@
 
 I am a passionate student with a keen interest in the dynamic world of Graphic Design and Programming.
 Learning </br>
-[Graphic Communication](https://www.nafa.edu.sg/programmes/diploma-in-graphic-communication) at NAFA University.
+[Graphic Communication](https://www.nafa.edu.sg/programmes/diploma-in-graphic-communication) at NAFA University. I am actively seeking opportunities in the fields. 🚀
 
 <div align="center">  
     
