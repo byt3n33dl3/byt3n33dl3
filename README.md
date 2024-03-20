@@ -52,7 +52,7 @@ Learning </br>
 <img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
 <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=webp&w=512" />
 <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="center" alt="SublimeText" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" />
+<img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" />
 </div>
 <br>
 
