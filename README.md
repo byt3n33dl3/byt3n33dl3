@@ -21,8 +21,8 @@ Learning </br>
 [![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)](https://www.telkomsel.com/enterprise/) </h6>
 
 <h2 align="center">
-<img src="17ankedua.gif" height="300" width="1750" >
-<img src="benergif-min.gif" height="300" width="1750" > </h2>
+<img src="tenteurprise17.gif" height="440" width="1750" >
+<img src="pastiadsolsi.gif" height="440" width="1750" > </h2>
 
 <div align="center">
 <br>
