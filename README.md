@@ -21,11 +21,8 @@ Learning </br>
 [![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)](https://www.telkomsel.com/enterprise/) </h6>
 
 <h2 align="center">
-    
-![17ankedua_1](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/eec4979e-b378-4b59-87af-d9e50249d5e1)
-
-![benergif-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/65786ca0-34d5-4575-b238-453a93b92e49) </h2>
-
+<img src="17ankedua.gif" height="300" width="1750" >
+<img src="benergif-min.gif" height="300" width="1750" > </h2>
 
 <div align="center">
 <br>
