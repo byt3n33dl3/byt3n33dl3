@@ -50,7 +50,7 @@ Learning </br>
 <img align="center" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://bit.ly/43xLhBF" />
 <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=webp&w=512" />
 <img align="center" alt="BlackMamba" width="30px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" />
-<img align="center" alt="Command" width="30px" style="padding-right:10px;" src="https://help.apple.com/assets/63FFD63D71728623E706DB4F/63FFD63E71728623E706DB56/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" /> <br>
+<img align="center" alt="Command" width="30px" style="padding-right:10px;" src="https://help.apple.com/assets/63FFD63D71728623E706DB4F/63FFD63E71728623E706DB56/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" />
 <img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
 <img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" />
 </div>
