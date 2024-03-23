@@ -31,13 +31,13 @@ Learning </br>
     
 ### 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 <br><br>
 
 <div align="center">
@@ -53,6 +53,8 @@ Learning </br>
 <img align="center" alt="Command" width="30px" style="padding-right:10px;" src="https://help.apple.com/assets/63FFD63D71728623E706DB4F/63FFD63E71728623E706DB56/en_GB/d94aa1c4979b25e9ffbda97fcbae219a.png" /> <br><br>
 <img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
 <img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" />
+<img align="center" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
+<img align="center" alt="Trojan" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/T/Trojans-logo-9022C64088-seeklogo.com.png" />
 </div>
 <br>
 
@@ -60,6 +62,6 @@ Learning </br>
 <hr>
     
 ### 📊 Contribution Timeline
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 <div align="left">
