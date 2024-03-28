@@ -48,16 +48,16 @@ Learning </br>
 <img align="center" alt="KaliLinux" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" />
 <img align="center" alt="BackBox" width="30px" style="padding-right:10px;" src="https://freepngimg.com/thumb/gnome/59140-backbox-operating-systems-linux-distribution-mint.png" />
 <img align="center" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://bit.ly/43xLhBF" />
-<img align="center" alt="Beef" width="35px" style="padding-right:10px;" src="https://widrogo.files.wordpress.com/2014/01/logo.png?w=200" />
+<img align="center" alt="Beef" width="33px" style="padding-right:10px;" src="https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/7a49a4a2-b646-41f9-bc92-1c378a4e357a" />
 <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=webp&w=512" />
-<img align="center" alt="BlackMamba" width="30px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" /><br><br>
+<img align="center" alt="BlackMamba" width="30px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" />
+<img align="center" alt="Trojan" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/T/Trojans-logo-9022C64088-seeklogo.com.png" /><br><br>
 <img align="center" alt="Hydra" width="33px" style="padding-right:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
 <img align="center" alt="MedusaRoot" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" />
 <img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
 <img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" />
 <img align="center" alt="HackTheBox" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" />
 <img align="center" alt="JetBrains" width="32px" style="padding-right:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" />
-<img align="center" alt="Trojan" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/T/Trojans-logo-9022C64088-seeklogo.com.png" />
 <img align="center" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
 </div>
 <br>
