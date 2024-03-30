@@ -70,11 +70,11 @@ Learning </br>
 
 <h3><details>
   <summary> <b> 📊 Contribution Timeline </b></summary>
-
+<br>
   <td align="center">
-    <img src="https://github.com/Sulaimannabdul/Sulaimannabdul/blob/main/metrics.plugin.profile-south-season.svg" />
+    <img src="https://github.com/Sulaimannabdul/Sulaimannabdul/blob/main/profile-south-season.svg" />
   </td> <br>
-
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=synthwave-84&true&hide_border=true" />
 </div>
 <div align="left">
