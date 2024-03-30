@@ -1,7 +1,7 @@
 <div align="center">
     
 [![final](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/5358f0ca-3f26-4a48-a9be-24464218dfbe)](https://www.cisa.gov/topics/cyber-threats-and-advisories)</div>
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋+;+Welcome+to+my+Github!;" />
@@ -14,16 +14,17 @@
 I am a passionate student with a keen interest in the dynamic world of Graphic Design and Programming.
 Learning </br>
 [Graphic Communication](https://www.nafa.edu.sg/programmes/diploma-in-graphic-communication) at NAFA University. I am actively seeking opportunities in the fields. 🚀
-<hr>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h6 align="center">
+
+  <summary><b>Telkomsel Enterprise</b></summary>
+  <div>
 
 [![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)](https://www.telkomsel.com/enterprise/) </h6>
 <h2 align="center">   
 <details>
-    <br>
-  <summary><b>Telkomsel Enterprise</b></summary>
-  <div>
       
 ![17ankedua_1](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/eec4979e-b378-4b59-87af-d9e50249d5e1)
     
@@ -67,8 +68,16 @@ Learning </br>
 
 <div align="center">
 <hr>
-    
-### 📊 Contribution Timeline
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<details>
+  <summary> <b> 📊 Contribution Timeline </b></summary>
+
+  <td align="center">
+    <img src="https://github.com/Sulaimannabdul/Sulaimannabdul/blob/main/metrics.plugin.profile-south-season.svg" />
+  </td> <br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=synthwave-84&true&hide_border=true" />
 </div>
 <div align="left">
+    </details>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
