@@ -22,7 +22,7 @@ Learning </br>
 [![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)](https://www.telkomsel.com/enterprise/) </h6>
 <h2 align="center">   
         <details>
-  <summary><b> 🎯 Telkomsel Enterprise </b></summary>
+  <summary><h6> 🎯 Telkomsel Enterprise </h6></summary>
   <div> <br>
       
 ![17ankedua_1](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/eec4979e-b378-4b59-87af-d9e50249d5e1)
@@ -69,7 +69,7 @@ Learning </br>
 <hr>
 
 <h3><details>
-  <summary> <b> 📊 Contribution Timeline </b></summary>
+  <summary> <h6> 📊 Contribution Timeline </h6></summary>
 <br>    
 <tr>
   <td align="center">
@@ -77,7 +77,7 @@ Learning </br>
   </td>
 </tr> 
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=synthwave-84&true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=react-dark&area=true&hide_border=true" />
 </div>
 <div align="left">
     </details>
