@@ -4,7 +4,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋+;+Welcome+to+my+Github!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋+;+Welcome+to+my+Github!;" />
 </h1>
 
 - 🌱 I’m currently learning **Graphic Design & Programming**
@@ -20,16 +20,16 @@ Learning </br>
 <h6 align="center">
 
 [![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)](https://www.telkomsel.com/enterprise/) </h6>
-<h2 align="center">   
-        <details>
-  <summary><h6> 🎯 Telkomsel Enterprise </h6></summary>
-  <div> <br>
+<h3 align="center">   
+<details>
+<summary><h6> 🎯 Telkomsel Enterprise </h6></summary>
+<div> <br>
       
 ![17ankedua_1](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/eec4979e-b378-4b59-87af-d9e50249d5e1)
     
 ![benergif-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/65786ca0-34d5-4575-b238-453a93b92e49) </h2>
 <div align="center">
-    </details>
+</details>
 <br>
     
 ### 💻 Tech Stack
@@ -69,16 +69,16 @@ Learning </br>
 <hr>
 
 <h3><details>
-  <summary> <h6> 📊 Contribution Timeline </h6></summary>
+<summary> <h6> 📊 Contribution Timeline </h6></summary>
 <br>    
 <tr>
-  <td align="center">
-    <img src="https://github.com/Sulaimannabdul/Sulaimannabdul/blob/main/metrics.plugin.isocalendar.svg" />
-  </td>
+<td align="center">
+<img src="https://github.com/Sulaimannabdul/Sulaimannabdul/blob/main/metrics.plugin.isocalendar.svg" />
+</td>
 </tr> 
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=react-dark&area=true&hide_border=true" />
 </div>
 <div align="left">
-    </details>
+</details>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
