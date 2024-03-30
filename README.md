@@ -17,16 +17,19 @@ Learning </br>
 <hr>
 
 <h6 align="center">
-    
+
 [![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)](https://www.telkomsel.com/enterprise/) </h6>
-
-<h2 align="center">
-    
+<h2 align="center">   
+<details>
+    <br>
+  <summary><b>Telkomsel Enterprise</b></summary>
+  <div>
+      
 ![17ankedua_1](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/eec4979e-b378-4b59-87af-d9e50249d5e1)
-
+    
 ![benergif-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/65786ca0-34d5-4575-b238-453a93b92e49) </h2>
-
 <div align="center">
+    </details>
 <br>
     
 ### 💻 Tech Stack
