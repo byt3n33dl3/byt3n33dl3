@@ -70,11 +70,13 @@ Learning </br>
 
 <h3><details>
   <summary> <b> 📊 Contribution Timeline </b></summary>
-<br>
-<td align="center">
-    <img src="https://github.com/Sulaimannabdul/Sulaimannabdul/metrics.plugin.isocalendar.svg" />
-  </td> <br>
-<br>
+<br>    
+<tr>
+  <td align="center">
+    <img src="https://github.com/Sulaimannabdul/Sulaimannabdul/blob/main/metrics.plugin.isocalendar.svg" />
+  </td>
+</tr> 
+<br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=synthwave-84&true&hide_border=true" />
 </div>
 <div align="left">
