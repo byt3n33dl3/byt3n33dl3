@@ -31,6 +31,12 @@ Learning </br>
 <div align="center">
 </details>
 <br>
+<details>
+<summary><h4> 🦈 Gangsta Organization </h4></summary>
+<div>
+<img src="GangstaVID.gif" height="540" width="1920" ></div><br>
+<img src="WallpaperGC.jpg" height="540" width="1920" ></div>
+</details><br>
     
 ### 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
