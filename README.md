@@ -30,7 +30,7 @@ Learning </br>
 ![benergif-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/65786ca0-34d5-4575-b238-453a93b92e49) </h2>
 <div align="center">
 </details>
-<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 <details>
 <summary><h4> 🦈 Gangsta Organization </h4></summary>
 <div>
