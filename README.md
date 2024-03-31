@@ -34,7 +34,7 @@ Learning </br>
 <details>
 <summary><h4> 🦈 Gangsta Organization </h4></summary>
 <div>
-<img src="GangstaVID.gif" height="540" width="1920" ></div><br>
+<img src="GangstaIntro.gif" height="540" width="1920" ></div><br>
 <img src="WallpaperGC.jpg" height="540" width="1920" ></div>
 </details><br>
     
