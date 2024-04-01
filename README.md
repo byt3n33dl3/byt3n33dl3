@@ -43,6 +43,7 @@ Learning </br>
 ![Animation](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/b52db39e-d543-4487-b914-326f2997035d)
 </div>
 </details><br>
+<div align="center">
     
 ### 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
