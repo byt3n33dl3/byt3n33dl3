@@ -37,10 +37,10 @@ Learning </br>
 <summary><h4> 🦈 Gangsta Organization </h4></summary>
 <div>
     
-![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/9becc141-986d-47b2-9028-34d15286189a)
+![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)
 </div>
     
-![Gangsta](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/bee6a91b-0760-4433-860d-4ddf735487ba)
+![Animation](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/b52db39e-d543-4487-b914-326f2997035d)
 </div>
 </details><br>
     
