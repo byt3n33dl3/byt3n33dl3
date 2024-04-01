@@ -31,11 +31,17 @@ Learning </br>
 <div align="center">
 </details>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
+
+<h4 align="center">
 <details>
 <summary><h4> 🦈 Gangsta Organization </h4></summary>
 <div>
-<img src="GangstaIntro.gif" height="540" width="1920" ></div><br>
-<img src="wallpaper.png" height="540" width="1920" ></div>
+    
+![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/9becc141-986d-47b2-9028-34d15286189a)
+</div>
+    
+![Gangsta](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/bee6a91b-0760-4433-860d-4ddf735487ba)
+</div>
 </details><br>
     
 ### 💻 Tech Stack
