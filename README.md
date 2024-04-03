@@ -75,6 +75,7 @@ Learning </br>
 <img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" />
 <img align="center" alt="HackTheBox" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" />
 <img align="center" alt="JetBrains" width="32px" style="padding-right:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" />
+<img align="center" alt="Kerberos" width="32px" style="padding-right:10px;" src="https://www.khuxwiki.com/w/images/5/56/Cerberus_6%E2%98%85_KHUX.png" />
 <img align="center" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
 </div>
 <br>
