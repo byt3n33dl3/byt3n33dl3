@@ -67,7 +67,7 @@ Learning </br>
 <img align="center" alt="HackTheBox" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" />
 <img align="center" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
 <img align="center" alt="Nmap" width="32px" style="padding-right:10px;" src="https://nmap.org/images/nmap-logo-256x256.png" />
-<img align="center" alt="Beef" width="33px" style="padding-right:10px;" src="https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/7a49a4a2-b646-41f9-bc92-1c378a4e357a" />
+<img align="center" alt="Beef" width="31px" style="padding-right:10px;" src="https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/7a49a4a2-b646-41f9-bc92-1c378a4e357a" />
 <img align="center" alt="BlackMamba" width="30px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" /><br><br>
 <img align="center" alt="Hydra" width="33px" style="padding-right:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
 <img align="center" alt="MedusaRoot" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" />
