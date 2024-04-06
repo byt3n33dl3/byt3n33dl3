@@ -39,9 +39,7 @@ Learning </br>
     
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)
 </div>
-    
-![Animation](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/b52db39e-d543-4487-b914-326f2997035d)
-</div>
+
 </details><br>
 <div align="center">
     
