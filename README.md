@@ -4,7 +4,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋+;+Welcome+to+my+Github!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
 - 🌱 I’m currently learning **Graphic Design & Programming**
@@ -74,9 +74,9 @@ Learning </br>
 <img align="center" alt="Crackmap" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" />
 <img align="center" alt="GVM" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/gvm/images/gvm-logo.svg" />
 <img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
-<img align="center" alt="Trojan" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/T/Trojans-logo-9022C64088-seeklogo.com.png" /><br><br>
-<img align="center" alt="Kerberos" width="32px" style="padding-right:10px;" src="https://www.khuxwiki.com/w/images/5/56/Cerberus_6%E2%98%85_KHUX.png" />
+<img align="center" alt="Trojan" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/T/Trojans-logo-9022C64088-seeklogo.com.png" />
 <img align="center" alt="Fierce" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
+<img align="center" alt="Kerberos" width="32px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
 <img align="center" alt="Hiddeneye" width="30px" style="padding-right:10px;" src="https://tinyurl.com/hiddeneyeproject" />
 <img align="center" alt="Pixiewps" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/pixiewps/images/pixiewps-logo.svg" />
 <img align="center" alt="Wfuzz" width="33px" style="padding-right:10px;" src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" />
