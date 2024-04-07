@@ -40,6 +40,8 @@ Learning </br>
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)
 </div>
 
+![Final-Git-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/ef774d34-c25d-44bf-9e55-2a3d96c25d9c)
+</div>
 </details><br>
 <div align="center">
     
