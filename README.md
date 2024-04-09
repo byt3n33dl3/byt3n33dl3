@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Graphic Design & Programming**
 - 📬 You can contact me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-aziz/)
 - 🖌️ My design work: [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/SulaimanAbdul)
+- 🖥️ Deployed project work: [![Vercel](https://vercelbadge.vercel.app/api/datejer/vercel-badge)](https://vercel.com/sulaimannabduls-projects)
 
 I am a passionate student with a keen interest in the dynamic world of Graphic Design and Programming.
 Learning </br>
@@ -41,7 +42,8 @@ Learning </br>
 </div>
 
 ![Final-Git-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/ef774d34-c25d-44bf-9e55-2a3d96c25d9c)
-</div>
+
+<br><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" /></div>
 </details><br>
 <div align="center">
     
