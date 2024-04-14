@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
-- 🌱 I’m currently learning **Graphic Design & Programming**
+- 🌱 I’m currently learning **Design & Programming**
 - 📬 You can contact me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-aziz/)
 - 🖌️ My design work: [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/SulaimanAbdul)
 - 🖥️ Deployed projects: [![Vercel](https://vercelbadge.vercel.app/api/datejer/vercel-badge)](https://vercel.com/sulaimannabduls-projects)
@@ -93,12 +93,16 @@ Learning </br>
 
 <h3><details>
 <summary> <h6> 📊 Contribution Timeline </h6></summary>
-<br>    
+<br> 
 <tr>
+<p align="center">  
+<img width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaimannabdul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img width="684" src="https://user-images.githubusercontent.com/8161064/288417332-408705a4-ae9c-47fe-af1a-9fb08555f526.png">
+</p>
 <td align="center">
 <img src="https://github.com/Sulaimannabdul/Sulaimannabdul/blob/main/metrics.plugin.isocalendar.svg" />
 </td>
-</tr> 
+</tr>
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=react-dark&area=true&hide_border=true" />
 </div>
