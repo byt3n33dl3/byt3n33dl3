@@ -96,8 +96,8 @@ Learning </br>
 <br> 
 <tr>
 <p align="center">  
-<img width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaimannabdul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-<img width="684" src="https://user-images.githubusercontent.com/8161064/288417332-408705a4-ae9c-47fe-af1a-9fb08555f526.png">
+<img width="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaimannabdul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img width="463" src="https://user-images.githubusercontent.com/8161064/288417332-408705a4-ae9c-47fe-af1a-9fb08555f526.png">
 </p>
 <td align="center">
 <img src="https://github.com/Sulaimannabdul/Sulaimannabdul/blob/main/metrics.plugin.isocalendar.svg" />
