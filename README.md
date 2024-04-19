@@ -1,39 +1,27 @@
 <div align="center">
     
-[![final](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/5358f0ca-3f26-4a48-a9be-24464218dfbe)](https://www.cisa.gov/topics/cyber-threats-and-advisories)</div>
+[![final](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/5358f0ca-3f26-4a48-a9be-24464218dfbe)]([https://www.cisa.gov/topics/cyber-threats-and-advisories](https://csrc.nist.gov/Topics/Security-and-Privacy/security-programs-and-operations))</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
-- 🌱 I’m currently learning **Design & Programming**
+- 🥷🏿 Learning ***Cyber Attack***
+- 🚩 Red team
 - 📬 You can contact me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-aziz/)
 - 🖌️ My design work: [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/SulaimanAbdul)
 - 🖥️ Deployed projects: [![Vercel](https://vercelbadge.vercel.app/api/datejer/vercel-badge)](https://vercel.com/sulaimannabduls-projects)
 
-I am a passionate student with a keen interest in the dynamic world of Graphic Design and Programming.
+I am a passionate student with a keen interest in the dynamic world of Graphic Design and ***Programming***.
 Learning </br>
 [Graphic Communication](https://www.nafa.edu.sg/programmes/diploma-in-graphic-communication) at NAFA University. I am actively seeking opportunities in the fields. 🚀
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
-<h6 align="center">
-
-[![telkomsel-logo-transparent](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/33129c3a-25c5-404a-ad4c-c095f0e3a756)](https://www.telkomsel.com/enterprise/) </h6>
-<h3 align="center">   
-<details>
-<summary><h6> 🎯 Telkomsel Enterprise </h6></summary>
-<div> <br>
-      
-![17ankedua_1](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/eec4979e-b378-4b59-87af-d9e50249d5e1)
+<h4 align="center"><br>
     
-![benergif-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/65786ca0-34d5-4575-b238-453a93b92e49) </h2>
-<div align="center">
-</details>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
-
-<h4 align="center">
+![widebanner](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/6263ab22-c9d3-4c41-a7f6-1d0b4a7825e1)
 <details>
 <summary><h4> 🦈 Gangsta Organization </h4></summary>
 <div>
@@ -41,10 +29,9 @@ Learning </br>
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)
 </div>
 
-![Final-Git-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/ef774d34-c25d-44bf-9e55-2a3d96c25d9c)
-
-<br><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" /></div>
-</details><br>
+[![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/2d187324-1db4-4978-9738-f5cd6a52b529)](https://cybersecurityventures.com/intrusion-daily-cyber-threat-alert/)
+</div>
+</details><hr><br>
 <div align="center">
     
 ### 💻 Tech Stack
