@@ -31,6 +31,8 @@ Learning </br>
 
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/2d187324-1db4-4978-9738-f5cd6a52b529)
 </div>
+<img src='GangstaIntro.gif'/>
+</div>
 </details><hr><br>
 <div align="center">
     
