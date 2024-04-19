@@ -1,6 +1,6 @@
 <div align="center">
     
-[![final](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/5358f0ca-3f26-4a48-a9be-24464218dfbe)]([https://csrc.nist.gov/Topics/Security-and-Privacy/security-programs-and-operations])</div>
+[![final](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/5358f0ca-3f26-4a48-a9be-24464218dfbe)](https://csrc.nist.gov/Topics/Security-and-Privacy/security-programs-and-operations)</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
@@ -21,7 +21,7 @@ Learning </br>
 
 <h4 align="center"><br>
     
-[![widebanner](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/6263ab22-c9d3-4c41-a7f6-1d0b4a7825e1)]([https://www.wired.com/story/cybersecurity-marginalized-communities-problem/])
+[![widebanner](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/6263ab22-c9d3-4c41-a7f6-1d0b4a7825e1)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
 <details>
 <summary><h4> 🦈 Gangsta Organization </h4></summary>
 <div>
