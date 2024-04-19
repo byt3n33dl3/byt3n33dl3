@@ -21,11 +21,11 @@ Learning </br>
 
 <h4 align="center"><br>
     
-[![widebanner](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/6263ab22-c9d3-4c41-a7f6-1d0b4a7825e1)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
+[![widebanner](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/f5c87aa6-0e5e-4c84-b471-d38c0d8470b4)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
 <details>
 <summary><h4> 🦈 Gangsta Organization </h4></summary>
 <div>
-    
+
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)
 </div>
 
