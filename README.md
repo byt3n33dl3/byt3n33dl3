@@ -14,8 +14,7 @@
 - 🖥️ Deployed projects: [![Vercel](https://vercelbadge.vercel.app/api/datejer/vercel-badge)](https://vercel.com/sulaimannabduls-projects)
 
 I am a passionate student with a keen interest in the dynamic world of ***Bug Bounty*** and ***Pentester***.
-Currently </br>
-learning ***front end*** as design for ***UI/UX*** practice. I am actively seeking opportunities in the fields. 🚀
+Currently learning ***front end*** as design for<br>***UI/UX*** practice. I am actively seeking opportunities in the fields. 🚀
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
