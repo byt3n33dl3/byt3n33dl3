@@ -33,7 +33,7 @@ Currently learning ***front end*** role as practice for ***UI/UX***. I am active
 <link rel="stylesheet" href="style.css">
 <img src="" alt="">
 </div>
-</details><hr><br>
+</details><hr>
 <div align="center">
     
 ### 💻 Tech Stack
