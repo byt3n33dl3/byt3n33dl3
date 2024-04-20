@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  .responsive-image {
+    width: 100%; /* This makes the image responsive */
+    height: auto; /* This maintains the aspect ratio */
+    max-width: 400px; /* You can set a max-width to fit your design needs */
+  }
+</style>
+<title>Responsive Image</title>
+</head>
+<body>
+  <img src='GangstaIntro.gif' class='responsive-image'/>
+</body>
+</html>
