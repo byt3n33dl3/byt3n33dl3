@@ -8,7 +8,7 @@
 </h1>
 
 - 🥷🏿 Learning ***Cyber Attack***
-- 🚩 Red team
+- 🚩 Red team | ***Penetration Tester***
 - 📬 You can contact me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-aziz/)
 - 🖌️ My design work: [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/SulaimanAbdul)
 - 🖥️ Deployed projects: [![Vercel](https://vercelbadge.vercel.app/api/datejer/vercel-badge)](https://vercel.com/sulaimannabduls-projects)
@@ -31,7 +31,7 @@ Learning </br>
 
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/2d187324-1db4-4978-9738-f5cd6a52b529)
 </div>
-<img src='GangstaIntro.gif'/>
+  <img src='GangstaIntro.gif' class='responsive-image'/>
 </div>
 </details><hr><br>
 <div align="center">
