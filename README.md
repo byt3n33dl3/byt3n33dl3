@@ -1,21 +1,21 @@
 <div align="center">
     
-[![final](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/5358f0ca-3f26-4a48-a9be-24464218dfbe)](https://csrc.nist.gov/Topics/Security-and-Privacy/security-programs-and-operations)</div>
+[![final](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/5358f0ca-3f26-4a48-a9be-24464218dfbe)](https://www.cisa.gov/topics/cyber-threats-and-advisories)</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
-- 🥷🏿 Learning ***Cyber Attack***
+- 🥷🏼 Interest: ***Cyber Attack***
 - 🚩 Red team | [***Penetration Tester***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
-- 📬 You can contact me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-aziz/)
+- 📬 You can reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-aziz/)
 - 🖌️ My design work: [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/SulaimanAbdul)
 - 🖥️ Deployed projects: [![Vercel](https://vercelbadge.vercel.app/api/datejer/vercel-badge)](https://vercel.com/sulaimannabduls-projects)
 
-I am a passionate student with a keen interest in the dynamic world of Graphic Design and ***Programming***.
-Learning </br>
-[Graphic Communication](https://www.nafa.edu.sg/programmes/diploma-in-graphic-communication) at NAFA University. I am actively seeking opportunities in the fields. 🚀
+I am a passionate student with a keen interest in the dynamic world of ***Bug Bounty*** and ***Pentester***.
+Currently </br>
+learning ***front end*** as design for ***UI/UX*** practice. I am actively seeking opportunities in the fields. 🚀
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
