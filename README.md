@@ -31,7 +31,8 @@ Learning </br>
 
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/2d187324-1db4-4978-9738-f5cd6a52b529)
 </div>
-  <img src='GangstaIntro.gif' class='responsive-image'/>
+<link rel="stylesheet" href="styles.css">
+<img src="GangstaIntro.gif" alt="Descriptive Alt Text">
 </div>
 </details><hr><br>
 <div align="center">
