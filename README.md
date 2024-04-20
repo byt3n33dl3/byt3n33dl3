@@ -27,8 +27,6 @@ Currently learning ***front end*** role as practice for ***UI/UX***. I am active
 
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)
 </div>
-
-![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/2d187324-1db4-4978-9738-f5cd6a52b529)
 </div>
 <link rel="stylesheet" href="style.css">
 <img src="" alt="">
