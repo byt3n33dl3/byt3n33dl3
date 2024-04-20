@@ -13,8 +13,8 @@
 - 🖌️ My design work: [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/SulaimanAbdul)
 - 🖥️ Deployed projects: [![Vercel](https://vercelbadge.vercel.app/api/datejer/vercel-badge)](https://vercel.com/sulaimannabduls-projects)
 
-I am a passionate student with keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and ***Pentester***.
-Currently learning ***front end*** as design for ***UI/UX*** practice. I am actively seeking opportunities in the fields. 🚀
+I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and ***Pentester***.
+Currently learning ***front end*** as design for ***UI/UX*** practice. I am actively seeking opportunities in the fields. 👽
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
