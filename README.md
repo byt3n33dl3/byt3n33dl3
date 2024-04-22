@@ -7,14 +7,12 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
-- 🥷🏼 Interest: ***Cyber Attack***
+- 🥷🏼 Interest: ***Offensive Cyber***
 - 🚩 Red team | [***Penetration Tester***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
 - 📬 You can reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-aziz/)
-- 🖌️ My design work: [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/SulaimanAbdul)
-- 🖥️ Deployed projects: [![Vercel](https://vercelbadge.vercel.app/api/datejer/vercel-badge)](https://vercel.com/sulaimannabduls-projects)
+- 🖥️ Deployed projects: [![Vercel Badge](https://deploy-badge.vercel.app/vercel/deploy-badge)](https://vercel.com/sulaimannabduls-projects)
 
-I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and ***Pentester***.
-Currently learning ***front end*** role as practice for ***UI/UX***. I am actively seeking opportunities in the fields. 👽
+I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4)Currently learning ***front end*** role as practice for ***UI/UX***. I am actively seeking opportunities in the fields. 👽
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
@@ -49,29 +47,30 @@ Currently learning ***front end*** role as practice for ***UI/UX***. I am active
 
 ### 🧰 Tools
 
-<img align="center" alt="VSCode" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
-<img align="center" alt="KaliLinux" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" />
-<img align="center" alt="BackBox" width="30px" style="padding-right:10px;" src="https://freepngimg.com/thumb/gnome/59140-backbox-operating-systems-linux-distribution-mint.png" />
-<img align="center" alt="Parrot" width="30px" style="padding-right:10px;" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" />
-<img align="center" alt="HackTheBox" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" />
-<img align="center" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
-<img align="center" alt="Nmap" width="30px" style="padding-right:10px;" src="https://nmap.org/images/nmap-logo-256x256.png" />
-<img align="center" alt="Beef" width="31px" style="padding-right:10px;" src="https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/7a49a4a2-b646-41f9-bc92-1c378a4e357a" />
-<img align="center" alt="BlackMamba" width="30px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" /><br><br>
+<img align="center" alt="VSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
+<img align="center" alt="KaliLinux" width="28px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" />
+<img align="center" alt="Parrot" width="28px" style="padding-right:10px;" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" />
+<img align="center" alt="BackBox" width="27px" style="padding-right:10px;" src="https://freepngimg.com/thumb/gnome/59140-backbox-operating-systems-linux-distribution-mint.png" />
+<img align="center" alt="Metasploit" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
+<img align="center" alt="Nmap" width="28px" style="padding-right:10px;" src="https://nmap.org/images/nmap-logo-256x256.png" />
+<img align="center" alt="Beef" width="29px" style="padding-right:10px;" src="https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/7a49a4a2-b646-41f9-bc92-1c378a4e357a" />
+<img align="center" alt="JohnTheRipper" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/john/images/john-logo.svg" />
+<img align="center" alt="BlackMamba" width="27px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" /><br><br>
 <img align="center" alt="Hydra" width="33px" style="padding-right:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
-<img align="center" alt="MedusaRoot" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" />
 <img align="center" alt="Crackmap" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" />
 <img align="center" alt="GVM" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/gvm/images/gvm-logo.svg" />
-<img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
+<img align="center" alt="Pegasus" width="33px" style="padding-right:10px;" src="https://i0.wp.com/www.oil-store.co.uk/wp-content/uploads/2017/10/Mobil20Pegasus-500x500-3.png?fit=500%2C500&ssl=1" />
 <img align="center" alt="Trojan" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/T/Trojans-logo-9022C64088-seeklogo.com.png" />
-<img align="center" alt="Fierce" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
-<img align="center" alt="Kerberos" width="32px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
+<img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
+<img align="center" alt="Arch" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3c/22/20/3c222092882bee7ef18fa5be84ef2e1b.png" />
+<img align="center" alt="Kerberos" width="30px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
 <img align="center" alt="Hiddeneye" width="30px" style="padding-right:10px;" src="https://tinyurl.com/hiddeneyeproject" />
 <img align="center" alt="Pixiewps" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/pixiewps/images/pixiewps-logo.svg" />
-<img align="center" alt="Wfuzz" width="33px" style="padding-right:10px;" src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" />
 <img align="center" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=webp&w=512" />
 <img align="center" alt="Jetbrain" width="30px" style="padding-right:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" />
+<img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
 <img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" />
+<img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://cdn.kibrispdr.org/data/681/joker-logo-png-6.png" />
 </div>
 <br>
 
