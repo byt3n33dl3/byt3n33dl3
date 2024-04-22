@@ -8,11 +8,11 @@
 </h1>
 
 - 🥷🏼 Interest: ***Offensive Cyber Attack***
-- 🚩 Red Team | [***Penetration Testing***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
-- 📬 You can reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaiman-aziz/)
+- 🥊 Red Team | [***Penetration Testing***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
+- 🪖 NetHunter | ***Kex Manager***
 - 🖥️ Deployed Test: [![Vercel Badge](https://deploy-badge.vercel.app/vercel/deploy-badge)](https://vercel.com/sulaimannabduls-projects)
 
-I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice for ***UI/UX***. ***Chipii chipi, chapaa chapa Dubidubi*** 👽
+I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice for ***UI/UX***. ***Chipii chipi, chapa chapa Dubidubi~*** 🔱
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
@@ -51,12 +51,12 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
     <img align="center" alt="VSCode" width="50px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" /></a>
 <a href="https://www.sublimetext.com/">
     <img align="center" alt="SublimeText" width="50px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" /></a>
+<a href="https://www.scaler.com/topics/cyber-security/what-is-linux-terminal/">
+    <img align="center" alt="Terminal" width="50px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Terminal-Root-icon.png" /></a>
 <a href="https://git-scm.com/">
     <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a>
 <a href="https://www.jetbrains.com/">
-    <img align="center" alt="JetBrains" width="50px" style="padding-right:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" /></a>
-<a href="https://www.scaler.com/topics/cyber-security/what-is-linux-terminal/">
-    <img align="center" alt="Terminal" width="50px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Terminal-Root-icon.png" /></a><br><br>
+    <img align="center" alt="JetBrains" width="50px" style="padding-right:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" /></a><br><br>
 <details>
 <summary><h4> 🗡️ More Tools </h4></summary>
 <br><img align="center" alt="DarkVSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
