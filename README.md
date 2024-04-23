@@ -9,7 +9,7 @@
 
 - 🥷🏼 Interest: ***Offensive Cyber Attack***
 - 🥊 Red Team | [***Penetration Testing***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
-- 🪖 NetHunter | ***Kex Manager***
+- 🪖 NetHunter | ***Kex***
 - 🖥️ Deployed Test: [![Vercel Badge](https://deploy-badge.vercel.app/vercel/deploy-badge)](https://vercel.com/sulaimannabduls-projects)
 
 I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice for ***UI/UX***. ***Chipii chipi, chapa chapa Dubidubi du~*** 🔱
@@ -26,13 +26,15 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)
 </div>
 </div>
+<a href="https://blackhatmea.com/black-hat-mea-cyberseed">
+    <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20221023/ourmid/pngtree-agent-mystery-detective-private-vector-png-image_34371568.png" /></a>
 <link rel="stylesheet" href="style.css">
 <img src="" alt="">
 </div>
 </details><hr>
 <div align="center">
     
-### 💻 Tech Stack
+### 💻 Tech Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<br>
@@ -70,7 +72,7 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <img align="center" alt="BlackMamba" width="27px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" /><br><br>
 <img align="center" alt="Hydra" width="31px" style="padding-right:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
 <img align="center" alt="Crackmap" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" />
-<img align="center" alt="GVM" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/gvm/images/gvm-logo.svg" />
+<img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
 <img align="center" alt="BloodHound" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" />
 <img align="center" alt="Pegasus" width="33px" style="padding-right:10px;" src="https://i0.wp.com/www.oil-store.co.uk/wp-content/uploads/2017/10/Mobil20Pegasus-500x500-3.png?fit=500%2C500&ssl=1" />
 <img align="center" alt="Trojan" width="26px" style="padding-right:10px;" src="https://bit.ly/4aLXyVY" />
@@ -80,14 +82,14 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <img align="center" alt="Nmap" width="28px" style="padding-right:10px;" src="https://nmap.org/images/nmap-logo-256x256.png" />
 <img align="center" alt="Pixiewps" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/pixiewps/images/pixiewps-logo.svg" />
 <img align="center" alt="Hiddeneye" width="30px" style="padding-right:10px;" src="https://tinyurl.com/hiddeneyeproject" />
-<img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
+<img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3a/96/0c/3a960cda627ddb80b65e1649174c3bed.png" />
 <img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://cdn.kibrispdr.org/data/681/joker-logo-png-6.png" />
 <img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" /><br><br>
 <img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
-<img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/05/rit-tigers-logo-freelogovectors.net_.png" />
+<img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/premium/thumb/kusarigama-11321596-9067617.png" />
 <img align="center" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" />
-<img align="center" alt="Predator" width="30px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/claw-scratch/red-claw-scratch-photo-4.png" />
-<img align="center" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" /><br><br>
+<img align="center" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
+<img align="center" alt="EagleHawking" width="27px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /><br><br>
 </details></div>
 <div align="center">
 <hr>
