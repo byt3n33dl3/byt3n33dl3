@@ -12,7 +12,7 @@
 - 🪖 NetHunter | ***Kex Manager***
 - 🖥️ Deployed Test: [![Vercel Badge](https://deploy-badge.vercel.app/vercel/deploy-badge)](https://vercel.com/sulaimannabduls-projects)
 
-I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice for ***UI/UX***. ***Chipii chipi, chapa chapa Dubidubi~*** 🔱
+I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice for ***UI/UX***. ***Chipii chipi, chapa chapa Dubidubi du~*** 🔱
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
@@ -70,7 +70,7 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <img align="center" alt="BlackMamba" width="27px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" /><br><br>
 <img align="center" alt="Hydra" width="31px" style="padding-right:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
 <img align="center" alt="Crackmap" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" />
-<img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
+<img align="center" alt="GVM" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/gvm/images/gvm-logo.svg" />
 <img align="center" alt="BloodHound" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" />
 <img align="center" alt="Pegasus" width="33px" style="padding-right:10px;" src="https://i0.wp.com/www.oil-store.co.uk/wp-content/uploads/2017/10/Mobil20Pegasus-500x500-3.png?fit=500%2C500&ssl=1" />
 <img align="center" alt="Trojan" width="26px" style="padding-right:10px;" src="https://bit.ly/4aLXyVY" />
@@ -80,10 +80,14 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <img align="center" alt="Nmap" width="28px" style="padding-right:10px;" src="https://nmap.org/images/nmap-logo-256x256.png" />
 <img align="center" alt="Pixiewps" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/pixiewps/images/pixiewps-logo.svg" />
 <img align="center" alt="Hiddeneye" width="30px" style="padding-right:10px;" src="https://tinyurl.com/hiddeneyeproject" />
-<img align="center" alt="GVM" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/gvm/images/gvm-logo.svg" />
 <img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
 <img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://cdn.kibrispdr.org/data/681/joker-logo-png-6.png" />
 <img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" /><br><br>
+<img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
+<img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/05/rit-tigers-logo-freelogovectors.net_.png" />
+<img align="center" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" />
+<img align="center" alt="Predator" width="30px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/claw-scratch/red-claw-scratch-photo-4.png" />
+<img align="center" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" /><br><br>
 </details></div>
 <div align="center">
 <hr>
@@ -93,7 +97,8 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <br> 
 <tr>
 <p align="center">  
-<img width="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaimannabdul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<a href="https://github.com/Sulaimannabdul?tab=repositories">
+<img width="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaimannabdul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></a>
 <img width="463" src="https://user-images.githubusercontent.com/8161064/288417332-408705a4-ae9c-47fe-af1a-9fb08555f526.png">
 </p>
 <td align="center">
@@ -101,7 +106,8 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 </td>
 </tr>
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=react-dark&area=true&hide_border=true" />
+    <a href="https://github.com/Sulaimannabdul">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=react-dark&area=true&hide_border=true" /></a>
 </div>
 <div align="left">
 </details>
