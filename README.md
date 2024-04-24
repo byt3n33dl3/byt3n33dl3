@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
-- 🥷🏼 Interest: ***Offensive Cyber Attack***
-- 🥊 Red Team | [***Penetration Testing***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
+- 🥷🏼 ***Offensive Cyber Attack***
+- 🥊 Red Team | [***Bug Hunter***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
 - 🪖 NetHunter | ***Kex***
 - 🖥️ Deployed Test: [![Vercel Badge](https://deploy-badge.vercel.app/vercel/deploy-badge)](https://vercel.com/sulaimannabduls-projects)
 
@@ -51,8 +51,8 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 
 <a href="https://code.visualstudio.com/">
     <img align="center" alt="VSCode" width="50px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" /></a>
-<a href="https://netbeans.apache.org/front/main/index.html?r=qal-bcsfw">
-    <img align="center" alt="SublimeText" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" /></a>
+<a href="https://atom-editor.cc/">
+    <img align="center" alt="SublimeText" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353433/atom-icon.svg" /></a>
 <a href="https://www.scaler.com/topics/cyber-security/what-is-linux-terminal/">
     <img align="center" alt="Terminal" width="50px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Terminal-Root-icon.png" /></a>
 <a href="https://git-scm.com/">
@@ -61,8 +61,8 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
     <img align="center" alt="JetBrains" width="50px" style="padding-right:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" /></a><br><br>
 <details>
 <summary><h4> 🗡️ More Tools </h4></summary>
-<br><img align="center" alt="ParrotOS" width="28px" style="padding-right:10px;" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" />
-<img align="center" alt="KaliLinux" width="28px" style="padding-right:10px;" src="https://habrastorage.org/getpro/habr/post_images/95f/11c/8c0/95f11c8c01c7e140e41476a22bc9edef.png" />
+<br><img align="center" alt="KaliLinux" width="28px" style="padding-right:10px;" src="https://habrastorage.org/getpro/habr/post_images/95f/11c/8c0/95f11c8c01c7e140e41476a22bc9edef.png" />
+<img align="center" alt="ParrotOS" width="28px" style="padding-right:10px;" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" />
 <img align="center" alt="BackBox" width="27px" style="padding-right:10px;" src="https://freepngimg.com/thumb/gnome/59140-backbox-operating-systems-linux-distribution-mint.png" />
 <img align="center" alt="Metasploit" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
 <img align="center" alt="Beef" width="29px" style="padding-right:10px;" src="https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/7a49a4a2-b646-41f9-bc92-1c378a4e357a" />
@@ -72,11 +72,11 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <img align="center" alt="BlackMamba" width="27px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" /><br><br>
 <img align="center" alt="Hydra" width="31px" style="padding-right:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
 <img align="center" alt="Crackmap" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" />
-<img align="center" alt="Linode" width="26px" style="padding-right:10px;" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" />
+<img align="center" alt="DNSjacking" width="30px" style="padding-right:10px;" src="https://pngimg.com/uploads/fingerprint/small/fingerprint_PNG87.png" />
 <img align="center" alt="BloodHound" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" />
 <img align="center" alt="Pegasus" width="33px" style="padding-right:10px;" src="https://i0.wp.com/www.oil-store.co.uk/wp-content/uploads/2017/10/Mobil20Pegasus-500x500-3.png?fit=500%2C500&ssl=1" />
 <img align="center" alt="Trojan" width="26px" style="padding-right:10px;" src="https://bit.ly/4aLXyVY" />
-<img align="center" alt="Arch" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3c/22/20/3c222092882bee7ef18fa5be84ef2e1b.png" />
+<img align="center" alt="BlackArch" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3c/22/20/3c222092882bee7ef18fa5be84ef2e1b.png" />
 <img align="center" alt="Kerberos" width="30px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
 <img align="center" alt="NiktoAlien" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" />
 <img align="center" alt="Nmap" width="28px" style="padding-right:10px;" src="https://nmap.org/images/nmap-logo-256x256.png" />
@@ -88,11 +88,12 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
 <img align="center" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" />
 <img align="center" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
+<img align="center" alt="KeyScore" width="32px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/97/XKeyscore_backround_removed.png" />
 <img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/ninjagaiden/images/4/40/I_kus_a_tga.png/revision/latest?cb=20231012080458" />
 <img align="center" alt="Medusa" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-medusa-greek-methology-snakes-as-hair-png-image_9966381.png" />
 <img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" /><br><br>
 <details>
-<summary><h4> ⚔️ Grim Reaper Scythe </h4></summary>
+<summary><h4> ⚔️ Reaper Scythe </h4></summary>
     <img align="center" alt="Johnny" width="40px" style="padding-right:10px;" src="https://bit.ly/3xY8y40" />
     <img align="center" alt="Pegasus2.0" width="40px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/13/Pegasus-PNG-Clipart.png" />
     <img align="center" alt="DarkFlipper" width="40px" style="padding-right:10px;" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" />
