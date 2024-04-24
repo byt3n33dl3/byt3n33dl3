@@ -27,7 +27,7 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 </div>
 </div>
 <a href="https://blackhatmea.com/black-hat-mea-cyberseed">
-    <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20220809/ourmid/pngtree-spy-icon-seek-mysterious-spy-vector-png-image_19430338.png" /></a>
+    <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" /></a>
 <link rel="stylesheet" href="style.css">
 <img src="" alt="">
 </div>
@@ -51,8 +51,8 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 
 <a href="https://code.visualstudio.com/">
     <img align="center" alt="VSCode" width="50px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" /></a>
-<a href="https://www.sublimetext.com/">
-    <img align="center" alt="SublimeText" width="50px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" /></a>
+<a href="https://netbeans.apache.org/front/main/index.html?r=qal-bcsfw">
+    <img align="center" alt="SublimeText" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" /></a>
 <a href="https://www.scaler.com/topics/cyber-security/what-is-linux-terminal/">
     <img align="center" alt="Terminal" width="50px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Terminal-Root-icon.png" /></a>
 <a href="https://git-scm.com/">
@@ -87,16 +87,25 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-pennywise-face-vector-png-image_6899714.png" /><br><br>
 <img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
 <img align="center" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" />
-<img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/ninjagaiden/images/4/40/I_kus_a_tga.png/revision/latest?cb=20231012080458" />
 <img align="center" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
-<img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" />
-<img align="center" alt="PhpStorm" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/PhpStorm_Icon.png" /><br><br>
+<img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/ninjagaiden/images/4/40/I_kus_a_tga.png/revision/latest?cb=20231012080458" />
+<img align="center" alt="Medusa" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-medusa-greek-methology-snakes-as-hair-png-image_9966381.png" />
+<img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" /><br><br>
+<details>
+<summary><h4> ⚔️ Grim Reaper Scythe </h4></summary>
+    <img align="center" alt="Johnny" width="40px" style="padding-right:10px;" src="https://bit.ly/3xY8y40" />
+    <img align="center" alt="Pegasus2.0" width="40px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/13/Pegasus-PNG-Clipart.png" />
+    <img align="center" alt="DarkFlipper" width="40px" style="padding-right:10px;" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" />
+    <img align="center" alt="NetHunter" width="40px" style="padding-right:10px;" src="https://www.kali.org/blog/kali-linux-2022-4-release/images/kali-nethunter-logo-dragon-grey-transparent.png" />
+    <img align="center" alt="Onion" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Tor_Browser_icon_%28New%29.png" />
+    <img align="center" alt="KerberosGoldKey" width="40px" style="padding-right:10px;" src="https://images.fineartamerica.com/images/artworkimages/medium/3/greek-mythology-cerberus-nikolay-todorov-transparent.png" /><br><br>
+</details>
 </details></div>
 <div align="center">
 <hr>
 
 <h3><details>
-<summary> <h6> 📊 Contribution Timeline </h6></summary>
+<summary> <h6> ⏳ Contribution Timeline </h6></summary>
 <br> 
 <tr>
 <p align="center">  
