@@ -27,7 +27,7 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 </div>
 </div>
 <a href="https://blackhatmea.com/black-hat-mea-cyberseed">
-    <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20221023/ourmid/pngtree-agent-mystery-detective-private-vector-png-image_34371568.png" /></a>
+    <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20220809/ourmid/pngtree-spy-icon-seek-mysterious-spy-vector-png-image_19430338.png" /></a>
 <link rel="stylesheet" href="style.css">
 <img src="" alt="">
 </div>
@@ -61,12 +61,12 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
     <img align="center" alt="JetBrains" width="50px" style="padding-right:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" /></a><br><br>
 <details>
 <summary><h4> 🗡️ More Tools </h4></summary>
-<br><img align="center" alt="DarkVSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
-<img align="center" alt="KaliLinux" width="28px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" />
-<img align="center" alt="Parrot" width="28px" style="padding-right:10px;" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" />
+<br><img align="center" alt="ParrotOS" width="28px" style="padding-right:10px;" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" />
+<img align="center" alt="KaliLinux" width="28px" style="padding-right:10px;" src="https://habrastorage.org/getpro/habr/post_images/95f/11c/8c0/95f11c8c01c7e140e41476a22bc9edef.png" />
 <img align="center" alt="BackBox" width="27px" style="padding-right:10px;" src="https://freepngimg.com/thumb/gnome/59140-backbox-operating-systems-linux-distribution-mint.png" />
 <img align="center" alt="Metasploit" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
 <img align="center" alt="Beef" width="29px" style="padding-right:10px;" src="https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/7a49a4a2-b646-41f9-bc92-1c378a4e357a" />
+<img align="center" alt="EagleHawking" width="26px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" />
 <img align="center" alt="JohnTheRipper" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/john/images/john-logo.svg" />
 <img align="center" alt="Intruder" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/39119616?s=200&v=4" />
 <img align="center" alt="BlackMamba" width="27px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" /><br><br>
@@ -82,14 +82,15 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <img align="center" alt="Nmap" width="28px" style="padding-right:10px;" src="https://nmap.org/images/nmap-logo-256x256.png" />
 <img align="center" alt="Pixiewps" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/pixiewps/images/pixiewps-logo.svg" />
 <img align="center" alt="Hiddeneye" width="30px" style="padding-right:10px;" src="https://tinyurl.com/hiddeneyeproject" />
+<img align="center" alt="DarkVSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
 <img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3a/96/0c/3a960cda627ddb80b65e1649174c3bed.png" />
-<img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://cdn.kibrispdr.org/data/681/joker-logo-png-6.png" />
-<img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" /><br><br>
+<img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-pennywise-face-vector-png-image_6899714.png" /><br><br>
 <img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
-<img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/premium/thumb/kusarigama-11321596-9067617.png" />
 <img align="center" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" />
+<img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/ninjagaiden/images/4/40/I_kus_a_tga.png/revision/latest?cb=20231012080458" />
 <img align="center" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
-<img align="center" alt="EagleHawking" width="27px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /><br><br>
+<img align="center" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/p/15/pycharm.svg" />
+<img align="center" alt="PhpStorm" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/PhpStorm_Icon.png" /><br><br>
 </details></div>
 <div align="center">
 <hr>
