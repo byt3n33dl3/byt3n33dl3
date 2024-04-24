@@ -8,7 +8,8 @@
 </h1>
 
 - 🥷🏼 ***Offensive Cyber Attack***
-- 🥊 Red Team | [***Bug Hunter***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
+- 🥊 Red Team | [***Penetration Tester***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
+- 🤖 DOS | [***All Operating System***](https://academy.hackthebox.com/achievement/badge/2380f792-f5ca-11ee-b18d-bea50ffe6cb4)
 - 🪖 NetHunter | ***Kex***
 - 🖥️ Deployed Test: [![Vercel Badge](https://deploy-badge.vercel.app/vercel/deploy-badge)](https://vercel.com/sulaimannabduls-projects)
 
@@ -27,7 +28,7 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 </div>
 </div>
 <a href="https://blackhatmea.com/black-hat-mea-cyberseed">
-    <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" /></a>
+    <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://static.thenounproject.com/png/2724524-200.png" /></a>
 <link rel="stylesheet" href="style.css">
 <img src="" alt="">
 </div>
@@ -66,9 +67,9 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <img align="center" alt="BackBox" width="27px" style="padding-right:10px;" src="https://freepngimg.com/thumb/gnome/59140-backbox-operating-systems-linux-distribution-mint.png" />
 <img align="center" alt="Metasploit" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
 <img align="center" alt="Beef" width="29px" style="padding-right:10px;" src="https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/7a49a4a2-b646-41f9-bc92-1c378a4e357a" />
-<img align="center" alt="EagleHawking" width="26px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" />
 <img align="center" alt="JohnTheRipper" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/john/images/john-logo.svg" />
 <img align="center" alt="Intruder" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/39119616?s=200&v=4" />
+<img align="center" alt="Airgeddon" width="26px" style="padding-right:10px;" src="https://www.kali.org/tools/airgeddon/images/airgeddon-logo.svg" />
 <img align="center" alt="BlackMamba" width="27px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" /><br><br>
 <img align="center" alt="Hydra" width="31px" style="padding-right:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
 <img align="center" alt="Crackmap" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" />
@@ -100,12 +101,15 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
     <img align="center" alt="CracxRat" width="45px" style="padding-right:10px;" src="https://bit.ly/3w7c8IF" />
     <img align="center" alt="NetHunter" width="40px" style="padding-right:10px;" src="https://www.kali.org/blog/kali-linux-2022-4-release/images/kali-nethunter-logo-dragon-grey-transparent.png" />
     <img align="center" alt="KerberosGoldKey" width="40px" style="padding-right:10px;" src="https://images.fineartamerica.com/images/artworkimages/medium/3/greek-mythology-cerberus-nikolay-todorov-transparent.png" /><br><br>
-    <img align="center" alt="iOSbotnet" width="45px" style="padding-right:10px;" src="https://bit.ly/3WgERFw" />
-    <img align="center" alt="iOSbotnet2.0" width="45px" style="padding-right:10px;" src="https://www.stickers-factory.com/media/catalog/product/cache/1/image/1000x/040ec09b1e35df139433887a97daa66f/2/2/22749_00.png" />
+    <img align="center" alt="Evil-winrm" width="45px" style="padding-right:10px;" src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" />
     <img align="center" alt="OniSpyware" width="38px" style="padding-right:10px;" src="https://www.freepnglogos.com/uploads/devil-png/devil-png-images-transparent-download-pngmartm-1.png" />
-    <img align="center" alt="Airgeddon" width="38px" style="padding-right:10px;" src="https://www.kali.org/tools/airgeddon/images/airgeddon-logo.svg" />
     <img align="center" alt="SnappWare" width="43px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231104/ourmid/pngtree-crocodile-head-logo-vector-png-image_10476016.png" />
-    <img align="center" alt="IIMiddle" width="41px" style="padding-right:10px;" src="https://static.thenounproject.com/png/2724524-200.png" /><br><br>
+    <img align="center" alt="IIMiddle" width="42px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" />
+    <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /><br><br>
+    <img align="center" alt="Reaver" width="40px" style="padding-right:10px;" src="https://i.imgflip.com/52akv4.png" />
+    <img align="center" alt="iOSbotnet" width="45px" style="padding-right:10px;" src="https://bit.ly/3WgERFw" />
+    <img align="center" alt="Clang" width="45px" style="padding-right:10px;" src="https://llvm.org/img/DragonMedium.png" />
+    <img align="center" alt="iOSbotnet2.0" width="45px" style="padding-right:10px;" src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/OJBhMBo-no-background-SAQ3qNJGtkYJgeGu6tYLKfIjvXw2aa.png" /><br><br>
 </details>
 </details></div>
 <div align="center">
