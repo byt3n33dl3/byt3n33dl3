@@ -11,9 +11,8 @@
 - 🉐 ***Observer*** | ***HTB Academy***
 - 🖥️ ***Cybernetics*** | [***All O.System***](https://academy.hackthebox.com/achievement/badge/2380f792-f5ca-11ee-b18d-bea50ffe6cb4)
 - 🪭 Red Team | [***Penetration Tester***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
-- 🌋 NetHunter | ***Kex***
 
-I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice for ***UI/UX***. ***Chipii chipi, chapa~chapa Dubidubi~du*** 🔱
+I am a passionate student with a keen interest in the dynamic role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice for ***UI/UX***. ***Chipii chipi, chapa chapa~Dubidubi~du*** 🔱
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
@@ -59,9 +58,9 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <a href="https://git-scm.com/">
     <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a>
 <a href="https://www.jetbrains.com/">
-    <img align="center" alt="JetBrains" width="50px" style="padding-right:10px;" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" /></a><br><br>
+    <img align="center" alt="JetBrains" width="50px" style="padding-right:10px;" src="https://img.informer.com/icons_mac/png/128/419/419584.png" /></a><br><br>
 <details>
-<summary><h4> 🗡️ More Tools </h4></summary>
+<summary><h4> 🔫 More Tools </h4></summary>
 <br><img align="center" alt="KaliLinux" width="28px" style="padding-right:10px;" src="https://habrastorage.org/getpro/habr/post_images/95f/11c/8c0/95f11c8c01c7e140e41476a22bc9edef.png" />
 <img align="center" alt="ParrotOS" width="28px" style="padding-right:10px;" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" />
 <img align="center" alt="BackBox" width="27px" style="padding-right:10px;" src="https://freepngimg.com/thumb/gnome/59140-backbox-operating-systems-linux-distribution-mint.png" />
@@ -94,22 +93,27 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <img align="center" alt="KeyScore" width="32px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/97/XKeyscore_backround_removed.png" />
 <img align="center" alt="MasScan" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/masscan/images/masscan-logo.svg" /><br><br>
 <details>
-<summary><h4> ⚔️ Reaper Scythe </h4></summary>
-<br><img align="center" alt="Johnny" width="40px" style="padding-right:10px;" src="https://bit.ly/3xY8y40" />
-    <img align="center" alt="Pegasus2.0" width="40px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/13/Pegasus-PNG-Clipart.png" />
-    <img align="center" alt="DarkFlipper" width="38px" style="padding-right:10px;" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" />
+<summary><h3><b>🪓 Reaper Scythe</b></h3></summary>
+    <details>
+        <summary><h4>🦅 <strong><em>Agitator...</em></strong></h4></summary>
+ <p><img align="center" alt="Johnny" width="40px" style="padding-right:10px;" src="https://bit.ly/3xY8y40" />
+    <img align="center" alt="TarantuWare" width="40px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20240206/ourmid/pngtree-spider-insect-png-image_11729286.png" />
+    <img align="center" alt="Clang" width="45px" style="padding-right:10px;" src="https://llvm.org/img/DragonMedium.png" />
     <img align="center" alt="NetHunter" width="40px" style="padding-right:10px;" src="https://www.kali.org/blog/kali-linux-2022-4-release/images/kali-nethunter-logo-dragon-grey-transparent.png" />
     <img align="center" alt="CracxRat" width="45px" style="padding-right:10px;" src="https://bit.ly/3w7c8IF" />
     <img align="center" alt="Kerberos" width="45px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
-    <img align="center" alt="KerberosGoldKey" width="43px" style="padding-right:10px;" src="https://images.fineartamerica.com/images/artworkimages/medium/3/greek-mythology-cerberus-nikolay-todorov-transparent.png" />
+    <img align="center" alt="Reaver" width="43px" style="padding-right:10px;" src="https://i.imgflip.com/52akv4.png" />
     <img align="center" alt="OniSpyware" width="40px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20220929/ourmid/pngtree-oni-mask-vector-illustration-skull-devil-png-image_6224148.png" />
     <img align="center" alt="SnappWare" width="43px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231104/ourmid/pngtree-crocodile-head-logo-vector-png-image_10476016.png" />
     <img align="center" alt="IIMiddle" width="42px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" />
-    <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /><br><br>
-    <img align="center" alt="Reaver" width="40px" style="padding-right:10px;" src="https://i.imgflip.com/52akv4.png" />
-    <img align="center" alt="TarantuWare" width="47px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20240206/ourmid/pngtree-spider-insect-png-image_11729286.png" />
-    <img align="center" alt="Clang" width="45px" style="padding-right:10px;" src="https://llvm.org/img/DragonMedium.png" />
-    <img align="center" alt="iOSbotnet2.0" width="45px" style="padding-right:10px;" src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/OJBhMBo-no-background-SAQ3qNJGtkYJgeGu6tYLKfIjvXw2aa.png" /><br><br>
+    <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /></p>
+    </details><details>
+        <summary><h4>⚡ <strong><em>Manace to Society</em></strong></h4></summary>
+ <p><img align="center" alt="KerberosPRO" width="50px" style="padding-right:10px;" src="https://images.fineartamerica.com/images/artworkimages/medium/3/greek-mythology-cerberus-nikolay-todorov-transparent.png" />
+    <img align="center" alt="DarkFlipper" width="50px" style="padding-right:10px;" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" />
+    <img align="center" alt="Pegasus2.0" width="50px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/13/Pegasus-PNG-Clipart.png" />
+    <img align="center" alt="iOSbotnet2.0" width="50px" style="padding-right:10px;" src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/OJBhMBo-no-background-SAQ3qNJGtkYJgeGu6tYLKfIjvXw2aa.png" />
+    <img align="center" alt="BigBang" width="50px" style="padding-right:10px;" src="https://clipart-library.com/new_gallery/342-3423992_bear-grizzly-bear-logo-png.png" /></p>
 </details>
 </details></div>
 <div align="center">
