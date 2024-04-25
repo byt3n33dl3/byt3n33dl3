@@ -1,6 +1,6 @@
 <div align="center">
     
-[![final](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/5358f0ca-3f26-4a48-a9be-24464218dfbe)](https://www.cisa.gov/topics/cyber-threats-and-advisories)</div>
+[![gith](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/8d9994c0-2475-489c-bd39-b3284450ddd4)](https://www.cisa.gov/topics/cyber-threats-and-advisories)</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
@@ -8,12 +8,12 @@
 </h1>
 
 - 🥷🏼 ***Offensive Cyber Attack***
+- 🉐 ***Observer*** | ***HTB Academy***
 - 🖥️ ***Cybernetics*** | [***All O.System***](https://academy.hackthebox.com/achievement/badge/2380f792-f5ca-11ee-b18d-bea50ffe6cb4)
 - 🪭 Red Team | [***Penetration Tester***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
 - 🌋 NetHunter | ***Kex***
-- 🉐 Deployed Test: [![Vercel Badge](https://deploy-badge.vercel.app/vercel/deploy-badge)](https://vercel.com/sulaimannabduls-projects)
 
-I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice for ***UI/UX***. ***Chipii chipi, chapa chapa Dubidubi du~*** 🔱
+I am a passionate student with a keen interest in the dynamic world of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice for ***UI/UX***. ***Chipii chipi, chapa~chapa Dubidubi~du*** 🔱
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
@@ -97,12 +97,12 @@ I am a passionate student with a keen interest in the dynamic world of [***Bug B
 <summary><h4> ⚔️ Reaper Scythe </h4></summary>
 <br><img align="center" alt="Johnny" width="40px" style="padding-right:10px;" src="https://bit.ly/3xY8y40" />
     <img align="center" alt="Pegasus2.0" width="40px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/13/Pegasus-PNG-Clipart.png" />
-    <img align="center" alt="DarkFlipper" width="40px" style="padding-right:10px;" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" />
+    <img align="center" alt="DarkFlipper" width="38px" style="padding-right:10px;" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" />
     <img align="center" alt="NetHunter" width="40px" style="padding-right:10px;" src="https://www.kali.org/blog/kali-linux-2022-4-release/images/kali-nethunter-logo-dragon-grey-transparent.png" />
     <img align="center" alt="CracxRat" width="45px" style="padding-right:10px;" src="https://bit.ly/3w7c8IF" />
     <img align="center" alt="Kerberos" width="45px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
     <img align="center" alt="KerberosGoldKey" width="43px" style="padding-right:10px;" src="https://images.fineartamerica.com/images/artworkimages/medium/3/greek-mythology-cerberus-nikolay-todorov-transparent.png" />
-    <img align="center" alt="OniSpyware" width="38px" style="padding-right:10px;" src="https://www.freepnglogos.com/uploads/devil-png/devil-png-images-transparent-download-pngmartm-1.png" />
+    <img align="center" alt="OniSpyware" width="40px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20220929/ourmid/pngtree-oni-mask-vector-illustration-skull-devil-png-image_6224148.png" />
     <img align="center" alt="SnappWare" width="43px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231104/ourmid/pngtree-crocodile-head-logo-vector-png-image_10476016.png" />
     <img align="center" alt="IIMiddle" width="42px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" />
     <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /><br><br>
