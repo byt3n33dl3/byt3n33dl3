@@ -8,7 +8,7 @@
 </h1>
 
 - 🥷🏼 ***Offensive Cyber Attack***
-- 🧠 ***Vital*** | ***Based*** ![Debian](https://img.shields.io/badge/Debian-A81B23?style=flat&logo=debian&logoColor=white)
+- 🧠 ***Vital*** | ***Based*** <a href="https://en.wikipedia.org/wiki/List_of_Linux_distributions">![Debian](https://img.shields.io/badge/Debian-A81B23?style=flat&logo=debian&logoColor=white)</a>
 - 🉐 ***Observer*** | ***HTB Academy***
 - 🚩 Red Team | [***Penetration Tester***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
 - 🖥️ ***Cybernetics*** | [***All O.System***](https://academy.hackthebox.com/achievement/badge/2380f792-f5ca-11ee-b18d-bea50ffe6cb4)
@@ -86,7 +86,7 @@ I am a passionate student with a keen interest in the dynamic role of [***Bug Bo
 <img align="center" alt="DarkVSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
 <img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3a/96/0c/3a960cda627ddb80b65e1649174c3bed.png" />
 <img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-pennywise-face-vector-png-image_6899714.png" />
-<img align="center" alt="GuruTrojan" width="30px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/4/Samurai-Logo-PNG.png" /><br><br>
+<img align="center" alt="GuruTrojan" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-clipart/20221009/ourmid/pngtree-oni-mask-with-samurai-armor-isolated-on-red-png-image_6294002.png" /><br><br>
 <img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
 <img align="center" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" />
 <img align="center" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
