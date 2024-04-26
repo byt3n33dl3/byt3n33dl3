@@ -8,9 +8,10 @@
 </h1>
 
 - 🥷🏼 ***Offensive Cyber Attack***
+- 🧠 ***Vital*** | ***Based*** ![Debian](https://img.shields.io/badge/Debian-A81B23?style=flat&logo=debian&logoColor=white)
 - 🉐 ***Observer*** | ***HTB Academy***
+- 🚩 Red Team | [***Penetration Tester***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
 - 🖥️ ***Cybernetics*** | [***All O.System***](https://academy.hackthebox.com/achievement/badge/2380f792-f5ca-11ee-b18d-bea50ffe6cb4)
-- 🪭 Red Team | [***Penetration Tester***](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4)
 
 I am a passionate student with a keen interest in the dynamic role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice for ***UI/UX***. ***Chipii chipi, chapa chapa~Dubidubi~du*** 🔱
 
@@ -61,7 +62,7 @@ I am a passionate student with a keen interest in the dynamic role of [***Bug Bo
     <img align="center" alt="JetBrains" width="50px" style="padding-right:10px;" src="https://img.informer.com/icons_mac/png/128/419/419584.png" /></a><br><br>
 <details>
 <summary><h4> 🔫 More Tools </h4></summary>
-<br><img align="center" alt="KaliLinux" width="28px" style="padding-right:10px;" src="https://habrastorage.org/getpro/habr/post_images/95f/11c/8c0/95f11c8c01c7e140e41476a22bc9edef.png" />
+<br><img align="center" alt="KaliLinux" width="28px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" />
 <img align="center" alt="ParrotOS" width="28px" style="padding-right:10px;" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" />
 <img align="center" alt="BackBox" width="27px" style="padding-right:10px;" src="https://freepngimg.com/thumb/gnome/59140-backbox-operating-systems-linux-distribution-mint.png" />
 <img align="center" alt="Metasploit" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
@@ -81,10 +82,11 @@ I am a passionate student with a keen interest in the dynamic role of [***Bug Bo
 <img align="center" alt="NiktoAlien" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" />
 <img align="center" alt="Nmap" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" />
 <img align="center" alt="Pixiewps" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/pixiewps/images/pixiewps-logo.svg" />
-<img align="center" alt="Hiddeneye" width="30px" style="padding-right:10px;" src="https://tinyurl.com/hiddeneyeproject" />
+<img align="center" alt="Hiddeneye" width="30px" style="padding-right:10px;" src="https://bit.ly/3WhpUTU" />
 <img align="center" alt="DarkVSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
 <img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3a/96/0c/3a960cda627ddb80b65e1649174c3bed.png" />
-<img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-pennywise-face-vector-png-image_6899714.png" /><br><br>
+<img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-pennywise-face-vector-png-image_6899714.png" />
+<img align="center" alt="GuruTrojan" width="30px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/4/Samurai-Logo-PNG.png" /><br><br>
 <img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
 <img align="center" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" />
 <img align="center" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
@@ -103,8 +105,8 @@ I am a passionate student with a keen interest in the dynamic role of [***Bug Bo
     <img align="center" alt="CracxRat" width="45px" style="padding-right:10px;" src="https://bit.ly/3w7c8IF" />
     <img align="center" alt="Kerberos" width="45px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
     <img align="center" alt="Reaver" width="43px" style="padding-right:10px;" src="https://i.imgflip.com/52akv4.png" />
-    <img align="center" alt="OniSpyware" width="40px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20220929/ourmid/pngtree-oni-mask-vector-illustration-skull-devil-png-image_6224148.png" />
-    <img align="center" alt="SnappWare" width="43px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231104/ourmid/pngtree-crocodile-head-logo-vector-png-image_10476016.png" />
+    <img align="center" alt="OniSpyware" width="40px" style="padding-right:10px;" src="https://bit.ly/3JVN8aN" />
+    <img align="center" alt="SnappWare" width="43px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231104/ourmid/pngtree-crocodile-head-vector-illustration-png-image_10476144.png" />
     <img align="center" alt="IIMiddle" width="42px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" />
     <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /></p>
     </details><details>
