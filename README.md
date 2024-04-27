@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
-- 🥷🏼 ***Offensive Cyber Attack***
+- 👮🏻 ***~Defensive SOC Analyst~***
 - 🧠 ***Vital*** | ***Based*** <a href="https://en.wikipedia.org/wiki/List_of_Linux_distributions">![Debian](https://img.shields.io/badge/Debian-A81B23?style=flat&logo=debian&logoColor=white)</a>
-- 🚩 ***Red team*** | ***VRP***
+- 💎 ***Blue team*** | ***VRP***
 
 Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
 
