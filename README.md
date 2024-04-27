@@ -37,7 +37,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -85,7 +85,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-the-joker-vector-png-image_6882698.png" />
 <img align="center" alt="DarkVSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
 <img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3a/96/0c/3a960cda627ddb80b65e1649174c3bed.png" />
-<img align="center" alt="GuruTrojan" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-clipart/20221009/ourmid/pngtree-oni-mask-with-samurai-armor-isolated-on-red-png-image_6294002.png" /><br><br>
+<img align="center" alt="GuruTrojan" width="30px" style="padding-right:10px;" src="https://static.vecteezy.com/system/resources/previews/023/974/944/original/samurai-mask-illustration-png.png" /><br><br>
 <img align="center" alt="BlackMamba" width="29px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" />
 <img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
 <img align="center" alt="SQLmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
@@ -93,7 +93,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/ninjagaiden/images/4/40/I_kus_a_tga.png/revision/latest?cb=20231012080458" />
 <img align="center" alt="MasScan" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/masscan/images/masscan-logo.svg" />
 <img align="center" alt="KeyScore" width="32px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/97/XKeyscore_backround_removed.png" />
-<img align="center" alt="DACLAttack" width="33px" style="padding-right:10px;" src="https://pngfre.com/wp-content/uploads/Alien-4-1024x1024.png" /><br><br>
+<img align="center" alt="DACLAttack" width="33px" style="padding-right:10px;" src="https://png.pngtree.com/png-clipart/20230218/ourmid/pngtree-realistic-alien-png-image_6606615.png" /><br><br>
 <details>
 <summary><h3><b>🪓 Reaper Scythe</b></h3></summary>
     <details>
