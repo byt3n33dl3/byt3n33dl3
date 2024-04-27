@@ -9,6 +9,7 @@
 
 - 🥷🏼 ***Offensive Cyber Attack***
 - 🧠 ***Vital*** | ***Based*** <a href="https://en.wikipedia.org/wiki/List_of_Linux_distributions">![Debian](https://img.shields.io/badge/Debian-A81B23?style=flat&logo=debian&logoColor=white)</a>
+- 🚩 ***Red team*** | ***VRP***
 
 Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
 
@@ -24,7 +25,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)
 </div>
 </div>
-<a href="https://blackhatmea.com/black-hat-mea-cyberseed">
+<a href="https://www.darkreading.com/application-security/mobb-wins-black-hat-startup-spotlight-competition">
     <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://static.thenounproject.com/png/2724524-200.png" /></a>
 <link rel="stylesheet" href="style.css">
 <img src="" alt="">
@@ -33,8 +34,9 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <div align="center">
     
 ### 💻 Tech Languages
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<br>
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -96,16 +98,17 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <summary><h3><b>🪓 Reaper Scythe</b></h3></summary>
     <details>
         <summary><h4>🦅 <strong><em>Agitator...</em></strong></h4></summary>
- <p><img align="center" alt="Johnny" width="40px" style="padding-right:10px;" src="https://bit.ly/3xY8y40" />
+ <p><img align="center" alt="Johnny" width="43px" style="padding-right:10px;" src="https://bit.ly/3xY8y40" />
     <img align="center" alt="TarantuWare" width="40px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20240206/ourmid/pngtree-spider-insect-png-image_11729286.png" />
     <img align="center" alt="Clang" width="45px" style="padding-right:10px;" src="https://llvm.org/img/DragonMedium.png" />
     <img align="center" alt="NetHunter" width="40px" style="padding-right:10px;" src="https://www.kali.org/blog/kali-linux-2022-4-release/images/kali-nethunter-logo-dragon-grey-transparent.png" />
-    <img align="center" alt="CracxRat" width="45px" style="padding-right:10px;" src="https://bit.ly/3w7c8IF" />
+    <img align="center" alt="CracxRat" width="40px" style="padding-right:10px;" src="https://venom.software/wp-content/uploads/2023/01/craxs-logo.png" />
     <img align="center" alt="Kerberos" width="45px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
-    <img align="center" alt="Reaver" width="43px" style="padding-right:10px;" src="https://i.imgflip.com/52akv4.png" />
-    <img align="center" alt="OniSpyware" width="40px" style="padding-right:10px;" src="https://bit.ly/3JVN8aN" />
+    <img align="center" alt="Reaver" width="41px" style="padding-right:10px;" src="https://i.imgflip.com/52akv4.png" />
+    <img align="center" alt="OniSpyware" width="38px" style="padding-right:10px;" src="https://bit.ly/3JVN8aN" />
     <img align="center" alt="SnappWare" width="43px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231104/ourmid/pngtree-crocodile-head-vector-illustration-png-image_10476144.png" />
-    <img align="center" alt="IIMiddle" width="42px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" />
+    <img align="center" alt="IIMiddle" width="40px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" />
+    <img align="center" alt="Anubiot.net" width="47px" style="padding-right:10px;" src="https://venom.software/wp-content/uploads/2022/10/anubis.png" />
     <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /></p>
     </details><details>
         <summary><h4>⚡ <strong><em>Manace to Society</em></strong></h4></summary>
@@ -113,7 +116,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="Pegasus2.0" width="50px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/13/Pegasus-PNG-Clipart.png" />
     <img align="center" alt="DarkFlipper" width="50px" style="padding-right:10px;" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" />
     <img align="center" alt="iOSbotnet2.0" width="50px" style="padding-right:10px;" src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/OJBhMBo-no-background-SAQ3qNJGtkYJgeGu6tYLKfIjvXw2aa.png" />
-    <img align="center" alt="BigBang" width="50px" style="padding-right:10px;" src="https://clipart-library.com/new_gallery/342-3423992_bear-grizzly-bear-logo-png.png" /></p>
+    <img align="center" alt="BigBang" width="50px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/werewolf/werewolf-transparent-png-17.png" /></p>
 </details>
 </details></div>
 <div align="center">
@@ -126,7 +129,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <p align="center">  
 <a href="https://github.com/Sulaimannabdul?tab=repositories">
 <img width="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulaimannabdul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></a>
-<img width="463" src="https://user-images.githubusercontent.com/8161064/288417332-408705a4-ae9c-47fe-af1a-9fb08555f526.png">
+<img width="460" src="https://user-images.githubusercontent.com/8161064/288417332-408705a4-ae9c-47fe-af1a-9fb08555f526.png">
 </p>
 <td align="center">
 <img src="https://github.com/Sulaimannabdul/Sulaimannabdul/blob/main/metrics.plugin.isocalendar.svg" />
