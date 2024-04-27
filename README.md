@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
-- 👮🏻 ***~Defensive SOC Analyst~***
+- 👮🏻 ***~Defensive, SOC Analyst~***
 - 🧠 ***Vital*** | ***Based*** <a href="https://en.wikipedia.org/wiki/List_of_Linux_distributions">![Debian](https://img.shields.io/badge/Debian-A81B23?style=flat&logo=debian&logoColor=white)</a>
 - 💎 ***Blue team*** | ***VRP***
 
