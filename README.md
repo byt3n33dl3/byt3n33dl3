@@ -4,12 +4,12 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=CascadiaCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Exo+2&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=3CEAFF&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
 - 👮🏻 ***~Defensive, SOC Analyst~***
 - 🧠 ***Vital*** | ***Based*** <a href="https://en.wikipedia.org/wiki/List_of_Linux_distributions">![Debian](https://img.shields.io/badge/Debian-A81B23?style=flat&logo=debian&logoColor=white)</a>
-- 🏴 ***Blue team*** | ***VRP***
+- 💠 ***Blue team*** | ***VRP***
 
 Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
 
@@ -90,9 +90,9 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <img align="center" alt="SQLmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
 <img align="center" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" />
 <img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/ninjagaiden/images/4/40/I_kus_a_tga.png/revision/latest?cb=20231012080458" />
-<img align="center" alt="MasScan" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/masscan/images/masscan-logo.svg" />
 <img align="center" alt="Clang" width="33px" style="padding-right:10px;" src="https://llvm.org/img/DragonMedium.png" />
-<img align="center" alt="KeyScore" width="32px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/97/XKeyscore_backround_removed.png" /><br><br>
+<img align="center" alt="KeyScore" width="32px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/97/XKeyscore_backround_removed.png" />
+<img align="center" alt="MasScan" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/masscan/images/masscan-logo.svg" /><br><br>
 <details>
 <summary><h3><b>🪓 Reaper Scythe</b></h3></summary>
     <details>
@@ -115,7 +115,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="Pegasus2.0" width="50px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/13/Pegasus-PNG-Clipart.png" />
     <img align="center" alt="DarkFlipper" width="50px" style="padding-right:10px;" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" />
     <img align="center" alt="iOSbotnet2.0" width="50px" style="padding-right:10px;" src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/OJBhMBo-no-background-SAQ3qNJGtkYJgeGu6tYLKfIjvXw2aa.png" />
-    <img align="center" alt="BigBang" width="48px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/werewolf/werewolf-transparent-png-17.png" /></p>
+    <img align="center" alt="KronosCK" width="48px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/werewolf/werewolf-transparent-png-17.png" /></p>
 </details>
 </details></div>
 <div align="center">
