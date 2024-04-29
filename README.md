@@ -1,6 +1,6 @@
 <div align="center">
     
-[![7total](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/e60f2b29-ab8c-4d89-9e98-8ead5bd8e38a)](https://www.interpol.int/Crimes/Cybercrime)</div>
+[![8an](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/3e6ddeec-dc08-42eb-a2ab-5256fad23e08)](https://www.interpol.int/Crimes/Cybercrime)</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
@@ -11,7 +11,7 @@
 - 🧠 ***Vital*** | ***Based*** <a href="https://www.debian.org/">![Debian](https://img.shields.io/badge/Debian-A81B23?style=flat&logo=debian&logoColor=white)</a>
 - 💠 ***Blue team*** | ***VRP***
 
-Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
+Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
@@ -22,7 +22,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <summary><h4> 🦈 Gangsta Organization </h4></summary>
 <div>
 
-![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)
+[![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)](https://github.com/Sulaimannabdul/WannaCry3.0)
 </div>
 </div>
 <a href="https://www.blackhat.com/us-23/spotlight.html">
