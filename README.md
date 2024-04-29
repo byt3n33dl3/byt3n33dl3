@@ -1,6 +1,6 @@
 <div align="center">
     
-[![readygit](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/07208e4a-c99a-4e43-945d-6dac8056c48b)](https://www.interpol.int/Crimes/Cybercrime)</div>
+[![7total](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/e60f2b29-ab8c-4d89-9e98-8ead5bd8e38a)](https://www.interpol.int/Crimes/Cybercrime)</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 </h1>
 
 - 👮🏻 ***~Defensive, SOC Analyst~***
-- 🧠 ***Vital*** | ***Based*** <a href="https://en.wikipedia.org/wiki/List_of_Linux_distributions">![Debian](https://img.shields.io/badge/Debian-A81B23?style=flat&logo=debian&logoColor=white)</a>
+- 🧠 ***Vital*** | ***Based*** <a href="https://www.debian.org/">![Debian](https://img.shields.io/badge/Debian-A81B23?style=flat&logo=debian&logoColor=white)</a>
 - 💠 ***Blue team*** | ***VRP***
 
 Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/e8ad960b-ff0d-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
@@ -25,7 +25,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 ![wallpaper](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/107201f8-d35f-4b73-b3da-92b999947cd3)
 </div>
 </div>
-<a href="https://www.darkreading.com/application-security/mobb-wins-black-hat-startup-spotlight-competition">
+<a href="https://www.blackhat.com/us-23/spotlight.html">
     <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://static.thenounproject.com/png/2724524-200.png" /></a>
 <link rel="stylesheet" href="style.css">
 <img src="" alt="">
