@@ -1,6 +1,6 @@
 <div align="center">
     
-[![P3XSOUGERINTRO](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/45460dfa-3515-4f48-927c-c8ea648eb873)](https://www.interpol.int/Crimes/Cybercrime)</div>
+[![p3xintro](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/28766573-2b74-4480-af8d-71b85d3b52a8)](https://www.interpol.int/Crimes/Cybercrime)</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
 <h1 align="center">
@@ -71,28 +71,28 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <img align="center" alt="Pegasus" width="27px" style="padding-right:10px;" src="https://www.pngkey.com/png/full/171-1710994_pegasus-png-download-image-horse.png" /><br><br>
 <img align="center" alt="Nikto" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" />
 <img align="center" alt="Nmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" />
+<img align="center" alt="BlackArch" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/A/arch-linux-logo-3C25E68BA9-seeklogo.com.png" />
 <img align="center" alt="KeyScore" width="32px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/97/XKeyscore_backround_removed.png" />
-<img align="center" alt="BlackArch" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3c/22/20/3c222092882bee7ef18fa5be84ef2e1b.png" />
-<img align="center" alt="BloodHound" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" />
-<img align="center" alt="Beef" width="30px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2017/05/Bull-Png-image-11.png" />
+<img align="center" alt="Beef-XSS" width="30px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2017/05/Bull-Png-image-11.png" />
 <img align="center" alt="Evil-winrm" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" />
-<img align="center" alt="Ghidra" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" /><br><br>
+<img align="center" alt="Ghidra" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" />
+<img align="center" alt="BloodHound" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" /><br><br>
     <pre style="border: none; outline: none;">────────────────────────────────────────────────────────────────</pre>
-    <p><strong><em>Watch Dog</em></strong></p>
+    <p><strong>🐺<em>Watch Dog</em></strong></p>
 <img align="center" alt="BlackMamba" width="29px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1122/1*_pc0k3ZBgaIWgAFLM2EoVw.png" />
-<img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
-<img align="center" alt="SQLmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
 <img align="center" alt="Bettercap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" />
-<img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/ninjagaiden/images/4/40/I_kus_a_tga.png/revision/latest?cb=20231012080458" />
+<img align="center" alt="SQLmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
+<img align="center" alt="Fierce" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/fierce/images/fierce-logo.svg" />
 <img align="center" alt="Clang" width="33px" style="padding-right:10px;" src="https://llvm.org/img/DragonMedium.png" />
+<img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://gitlab.com/uploads/-/system/project/avatar/11903991/kali-proxychains.png" />
 <img align="center" alt="MasScan" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/masscan/images/masscan-logo.svg" />
 <img align="center" alt="GuruTrojan" width="30px" style="padding-right:10px;" src="https://static.vecteezy.com/system/resources/previews/023/974/944/original/samurai-mask-illustration-png.png" /><br><br>
 <img align="center" alt="Hydra" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
-<img align="center" alt="Crackmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" />
+<img align="center" alt="CrackmapExec" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" />
 <img align="center" alt="Ettercap" width="33px" style="padding-right:10px;" src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" />
+<img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-the-joker-vector-png-image_6882698.png" />
 <img align="center" alt="Pixiewps" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/pixiewps/images/pixiewps-logo.svg" />
 <img align="center" alt="Hiddeneye" width="30px" style="padding-right:10px;" src="https://bit.ly/3WhpUTU" />
-<img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-the-joker-vector-png-image_6882698.png" />
 <img align="center" alt="DarkVSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
 <img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3a/96/0c/3a960cda627ddb80b65e1649174c3bed.png" /><br><br>
 <details>
@@ -111,7 +111,8 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="CracxRatandroid" width="42px" style="padding-right:10px;" src="https://venom.software/wp-content/uploads/2022/10/anubis.png" />
     <img align="center" alt="MITMattack" width="46px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" />
     <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /></p>
-    </details><details>
+    </details><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="550" height="5" />
+        <details>
         <summary><h4>⚡ <strong><em>Manace to Society</em></strong></h4></summary>
  <p><img align="center" alt="KerberosPRO" width="52px" style="padding-right:10px;" src="https://revthandeka.org/wp-content/uploads/2019/08/cerberus-illustration.png" />
     <img align="center" alt="Pegasus2.0" width="50px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/13/Pegasus-PNG-Clipart.png" />
