@@ -135,6 +135,13 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <br><br>
     <a href="https://github.com/Sulaimannabdul">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=react-dark&area=true&hide_border=true" /></a>
+    <details>
+<summary><h4>🌥️<strong><em>TryHackMe</em></strong></h4></summary>
+    <img align="center" alt="owasp" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/owasptop10.svg" />
+    <img align="center" alt="linuxescprivilages" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/linuxprivesc.svg" />
+    <img align="center" alt="mr.robot" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/mrrobot.svg" />
+    <img align="center" alt="investigations" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/investigations_badge.svg" />
+    <img align="center" alt="attackingAD" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/attackingad.svg" /><br>
 </div>
 <div align="left">
 </details>
