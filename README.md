@@ -97,18 +97,18 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <img align="center" alt="DarkVSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
 <img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3a/96/0c/3a960cda627ddb80b65e1649174c3bed.png" /><br><br>
 <details>
-<summary><h4><b>🪓 Reaper Scythe</b></h4></summary>
+<summary><h4><b>👁️‍🗨️ Reaper Scythe</b></h4></summary>
     <details>
         <summary><h5>🦅 <strong><em>Agitator...</em></strong></h5></summary>
  <p><img align="center" alt="Johnny" width="43px" style="padding-right:10px;" src="https://bit.ly/3xY8y40" />
-    <img align="center" alt="TarantuWare" width="40px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20240206/ourmid/pngtree-spider-insect-png-image_11729286.png" />
+    <img align="center" alt="Tarantalware" width="40px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20240206/ourmid/pngtree-spider-insect-png-image_11729286.png" />
     <img align="center" alt="NetHunter" width="40px" style="padding-right:10px;" src="https://www.kali.org/blog/kali-linux-2022-4-release/images/kali-nethunter-logo-dragon-grey-transparent.png" />
     <img align="center" alt="DACLAttack" width="45px" style="padding-right:10px;" src="https://png.pngtree.com/png-clipart/20230218/ourmid/pngtree-realistic-alien-png-image_6606615.png" />
-    <img align="center" alt="CracxRat" width="40px" style="padding-right:10px;" src="https://venom.software/wp-content/uploads/2023/01/craxs-logo.png" />
+    <img align="center" alt="CraxsRat" width="40px" style="padding-right:10px;" src="https://venom.software/wp-content/uploads/2023/01/craxs-logo.png" />
     <img align="center" alt="Kerberos" width="45px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
     <img align="center" alt="Reaver" width="41px" style="padding-right:10px;" src="https://i.imgflip.com/52akv4.png" />
     <img align="center" alt="OniSpyware" width="38px" style="padding-right:10px;" src="https://bit.ly/3JVN8aN" />
-    <img align="center" alt="SnappWare" width="43px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231104/ourmid/pngtree-crocodile-head-vector-illustration-png-image_10476144.png" />
+    <img align="center" alt="SnappyWare" width="43px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231104/ourmid/pngtree-crocodile-head-vector-illustration-png-image_10476144.png" />
     <img align="center" alt="CracxRatandroid" width="42px" style="padding-right:10px;" src="https://venom.software/wp-content/uploads/2022/10/anubis.png" />
     <img align="center" alt="MITMattack" width="46px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" />
     <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /></p>
@@ -119,14 +119,17 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="Pegasus2.0" width="50px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/13/Pegasus-PNG-Clipart.png" />
     <img align="center" alt="DarkFlipper" width="50px" style="padding-right:10px;" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" />
     <img align="center" alt="iOSbotnet2.0" width="50px" style="padding-right:10px;" src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/OJBhMBo-no-background-SAQ3qNJGtkYJgeGu6tYLKfIjvXw2aa.png" />
-    <img align="center" alt="KronosCK" width="48px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/werewolf/werewolf-transparent-png-17.png" /></p>
+    <img align="center" alt="RATrooting" width="50px" style="padding-right:10px;" src="https://i.pinimg.com/originals/f1/6d/06/f16d062bf0d99464eaa1b0150a08316e.png" />
+    <img align="center" alt="KronosCK" width="48px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/werewolf/werewolf-transparent-png-17.png" />
+    <img align="center" alt="HydraInjection" width="46px" style="padding-right:10px;" src="https://www.seekpng.com/png/full/267-2673054_hydra-hydra-greek-mythology-png.png" />
+    <img align="center" alt="Madtimber" width="48px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/werewolf/werewolf-the-apocalypse-wolf-png-pictures-26.png" /></p>
 </details>
 </details></div>
 <div align="center">
 <hr>
 
 <h3><details>
-<summary> <h6> ⏳ Contribution Timeline </h6></summary>
+<summary><h6>⏳ Contribution Timeline</h6></summary>
 <br> 
 <tr>
 <td align="center">
@@ -144,15 +147,19 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="mr.robot" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/mrrobot.svg" />
     <img align="center" alt="investigations" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/investigations_badge.svg" />
     <img align="center" alt="attackingAD" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/attackingad.svg" /><br>
-        <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="450" height="2" />
+        <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="650" height="2" />
         <h6>⚡<strong><em>Hack The Box Academy</em></strong></h6>
     <img align="center" alt="nmap" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" />
     <img align="center" alt="session-security" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/passwords-are-not-the-only-way-forward.png" />
-    <img align="center" alt="webpentester" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/a0c3a21e2c8035aba8bdabf45f36e9a3/logo.png" />
+    <img align="center" alt="bbhpath" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/ready-to-hunt-bugs-for-fund-and-profit.png" />
     <img align="center" alt="passwordattack" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/grab-the-keys-and-move-laterally.png" />
-    <img align="center" alt="sqlmap" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/join-the-adventure.png" />
+    <img align="center" alt="modernwebattack" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/037722a3673e2efc3e9eaa96e42f335f/logo.png" />
+    <img align="center" alt="kerberos" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/521b5f7166543f399f4e130c427b2219/logo.png" />
     <img align="center" alt="network-analysis" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/lurk-in-the-packets.png" />
-    <img align="center" alt="Detecting-Windows-Attacks" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/bbc2198760a18abd0a8110a605475b95/logo.png" />
+    <img align="center" alt="chainattack" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/15f22a1d9eb38cfcec15d3c79fca1714/logo.png" />
+    <img align="center" alt="server-attack" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/straight-to-the-server.png" />
+    <img align="center" alt="crest" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/ready-to-tackle-the-certification-process.png" />
+    <img align="center" alt="detecting-windows-attacks" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/bbc2198760a18abd0a8110a605475b95/logo.png" />
     <img align="center" alt="cbbh" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/53e123c999a8919ef940ed50d9807337/logo.png" />
     <img align="center" alt="cdsa" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/7dcdd0c8cdce564a51346fff7cdb2788/logo.png" /><br>
 </div>
