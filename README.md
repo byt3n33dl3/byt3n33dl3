@@ -97,7 +97,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <img align="center" alt="DarkVSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
 <img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3a/96/0c/3a960cda627ddb80b65e1649174c3bed.png" /><br><br>
 <details>
-<summary><h4><b>👁️‍🗨️ Reaper Scythe</b></h4></summary>
+<summary><h4><b>🪬 Reaper Scythe</b></h4></summary>
     <details>
         <summary><h5>🦅 <strong><em>Agitator...</em></strong></h5></summary>
  <p><img align="center" alt="Johnny" width="43px" style="padding-right:10px;" src="https://bit.ly/3xY8y40" />
@@ -160,6 +160,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="server-attack" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/straight-to-the-server.png" />
     <img align="center" alt="crest" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/ready-to-tackle-the-certification-process.png" />
     <img align="center" alt="detecting-windows-attacks" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/bbc2198760a18abd0a8110a605475b95/logo.png" />
+    <img align="center" alt="python3" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/snake-charmer.png" />
     <img align="center" alt="cbbh" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/53e123c999a8919ef940ed50d9807337/logo.png" />
     <img align="center" alt="cdsa" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/7dcdd0c8cdce564a51346fff7cdb2788/logo.png" /><br>
 </div>
