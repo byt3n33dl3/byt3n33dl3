@@ -8,9 +8,8 @@
 </h1>
 
 - 🥷🏻 ***~Offensive Cyber Attack~***
-- 🦠 ***Malware Development***
 - 🚩 ***Pentesting*** & ***Vulnerability Expo***
-- 🧠 ***Vital*** | [***Every O.System***](https://academy.hackthebox.com/achievement/badge/2380f792-f5ca-11ee-b18d-bea50ffe6cb4)
+- 🧠 ***~Debian based | Kali, Parrot O.S~***
 
 Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
 
@@ -138,7 +137,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <a href="https://github.com/Sulaimannabdul">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=react-dark&area=true&hide_border=true" /></a>
     <details>
-<summary><h5><b>🔐 Hacking Achievement</b></h5></summary>
+<summary><h6><b>🔐 Hacking Achievement</b></h6></summary>
 <h6>🌥️<strong><em>Try Hack Me</em></strong></h6>
     <img align="center" alt="owasp" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/owasptop10.svg" />
     <img align="center" alt="linuxescprivilages" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/linuxprivesc.svg" />
