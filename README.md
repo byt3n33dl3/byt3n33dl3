@@ -11,7 +11,7 @@
 - 🛑 ***Pentesting*** & ***Vulnerability Expo***
 - 💠 ***~Debian based | Kali, Parrot O.S~***
 
-Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/748cc11e-f764-11ee-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
+Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/1e8fd2d6-0e42-11ef-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 
@@ -147,10 +147,10 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="modernwebattack" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/037722a3673e2efc3e9eaa96e42f335f/logo.png" />
     <img align="center" alt="kerberos" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/521b5f7166543f399f4e130c427b2219/logo.png" />
     <img align="center" alt="chainattack" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/15f22a1d9eb38cfcec15d3c79fca1714/logo.png" />
-    <img align="center" alt="crest" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/ready-to-tackle-the-certification-process.png" />
+    <img align="center" alt="Privilege-Escalation" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/stand-above-all.png" />
     <img align="center" alt="detecting-windows-attacks" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/bbc2198760a18abd0a8110a605475b95/logo.png" />
     <img align="center" alt="cbbh" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/53e123c999a8919ef940ed50d9807337/logo.png" />
-    <img align="center" alt="cdsa" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/7dcdd0c8cdce564a51346fff7cdb2788/logo.png" /><br>
+    <img align="center" alt="cpts" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" /><br>
 </div>
 <div align="left">
 </details>
