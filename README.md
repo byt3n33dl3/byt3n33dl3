@@ -1,7 +1,7 @@
 <div align="center">
     
 [![pexsougerintro](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/629967d7-02ad-4284-9392-7fd511d4d16c)](https://www.interpol.int/Crimes/Cybercrime)</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" width="1000" height="2" />
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Exo+2&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=3CEAFF&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
@@ -9,11 +9,11 @@
 
 - 🥷🏻 ***~Offensive Cyber Attack~***
 - 🛑 ***Pentesting*** & ***Vulnerability Expo***
-- 💠 ***~Debian based | Kali, Parrot O.S~***
+- 💠 ***Debian based | Kali, Parrot O.S***
 
 Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/1e8fd2d6-0e42-11ef-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
+<hr>
 
 <h4 align="center"><br>
     
@@ -21,7 +21,9 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <details>
 <summary><h4> 🦈 Gangsta Organization </h4></summary>
   
-[![bruses2](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/2ed5cd9b-78b0-4106-93a5-8ae0e5ef516a)](https://github.com/Sulaimannabdul/WannaCry3.0)
+[![brute-forcing](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/2ed5cd9b-78b0-4106-93a5-8ae0e5ef516a)](https://github.com/Sulaimannabdul/WannaCry3.0)
+
+[![kerberos](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/317ea1b3-2e6d-4903-ae40-7c5219b46af0)](github.com/Sulaimannabdul/KerberossianCracker)
 </div>
 <a href="https://www.blackhat.com/us-23/spotlight.html">
     <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://static.thenounproject.com/png/2724524-200.png" /></a>
@@ -29,7 +31,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <img src="" alt="">
 </div>
 <h6><strong><em>Bug Bounty, Penetration Testing, Malware Development, Threat Intelligence</em></strong></h6>
-</details><hr>
+</details><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" width="1000" height="2" />
 <div align="center">
     
 ### 💻 Tech Languages
@@ -41,11 +43,12 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/about/gettingstarted/) 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-<br><br>
+<br><br><br>
 
+[![blackhat](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/3fa34cb3-6eec-4be7-97c6-412e3fde73f2)](github.com/Sulaimannabdul)
 <div align="center">
-
-### 🧰 General Tools
+<details>
+<summary><h4> 🧰 General Tools </h4></summary><br>
 
 <a href="https://code.visualstudio.com/">
     <img align="center" alt="VSCode" width="50px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" /></a>
@@ -57,6 +60,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a>
 <a href="https://www.jetbrains.com/">
     <img align="center" alt="JetBrains" width="50px" style="padding-right:10px;" src="https://img.informer.com/icons_mac/png/128/419/419584.png" /></a><br><br>
+
 <details>
 <summary><h4> 🔫 More Tools </h4></summary>
 <br><img align="center" alt="KaliLinux" width="28px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" />
@@ -133,14 +137,14 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 </tr>
 <br><br>
     <a href="https://github.com/Sulaimannabdul">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=react-dark&area=true&hide_border=true" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=vue&area=true&hide_border=true" /></a>
     <details>
 <summary><h6><b>🔐 Hacking Achievement</b></h6></summary>
 <h6>🌥️<strong><em>Try Hack Me</em></strong></h6>
     <img align="center" alt="linuxescprivilages" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/linuxprivesc.svg" />
     <img align="center" alt="investigations" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/investigations_badge.svg" />
     <img align="center" alt="attackingAD" width="50px" style="padding-right:10px;" src="https://tryhackme.com/img/badges/attackingad.svg" /><br>
-        <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" width="450" height="2" />
+        <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" width="550" height="2" />
         <h6>⚡<strong><em>Hack The Box Academy</em></strong></h6>
     <img align="center" alt="session-security" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/passwords-are-not-the-only-way-forward.png" />
     <img align="center" alt="bbhpath" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/ready-to-hunt-bugs-for-fund-and-profit.png" />
