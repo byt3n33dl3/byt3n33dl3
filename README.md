@@ -115,10 +115,10 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="Kerberos" width="45px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
     <img align="center" alt="OniSpyware" width="38px" style="padding-right:10px;" src="https://bit.ly/3JVN8aN" />
     <img align="center" alt="Reaver" width="41px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231020/ourmid/pngtree-cute-grim-reaper-drawing-cartoon-grim-reaper-halloween-sticker-png-image_10300636.png" />
+    <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.pixabay.com/photo/2023/10/18/22/47/eagle-8325208_1280.png" />
     <img align="center" alt="Botnetandroid" width="42px" style="padding-right:10px;" src="https://venom.software/wp-content/uploads/2022/10/anubis.png" />
     <img align="center" alt="TimberDNS" width="43px" style="padding-right:10px;" src="https://bit.ly/3UqJY3n" />
-    <img align="center" alt="MITMattack" width="46px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" />
-    <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/1679044936_16.png" /></p>
+    <img align="center" alt="MITMattack" width="46px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" /></p>
     </details><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" width="550" height="2" />
         <details>
         <summary><h5>⚡ <strong><em>Manace to Society</em></strong></h5></summary>
