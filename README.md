@@ -50,7 +50,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 <br><br><br>
 
-[![blackhat](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/3fa34cb3-6eec-4be7-97c6-412e3fde73f2)](github.com/Sulaimannabdul)
+[![test-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/a7ae00bf-d150-48c1-b5b0-f3db0bab0012)](github.com/Sulaimannabdul)
 <div align="center">
 <details>
 <summary><h4> 🧰 General Tools </h4></summary><br>
