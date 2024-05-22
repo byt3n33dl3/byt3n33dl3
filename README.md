@@ -1,6 +1,6 @@
 <div align="center">
     
-[![P3X](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/5b36b6c4-c224-4401-8681-cb4795b1668f)](https://www.interpol.int/Crimes/Cybercrime)</div>
+[![P3X](https://github.com/pxcs/pxcs/assets/151133481/5b36b6c4-c224-4401-8681-cb4795b1668f)](https://www.interpol.int/Crimes/Cybercrime)</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" width="1000" height="2" />
 
 <h1 align="center">
@@ -9,7 +9,7 @@
 
 - 🥷🏻 ***~Offensive Cyber Attack~***
 - 🛑 ***Pentesting*** & ***Vulnerability Expo***
-- 💠 ***Debian based | Kali, Parrot O.S***
+- 💠 ***Debian based*** | [***Kali, Parrot O.S***](https://academy.hackthebox.com/achievement/badge/2ec51d1d-0e37-11ef-b18d-bea50ffe6cb4)
 
 Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/1e8fd2d6-0e42-11ef-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
 
@@ -17,17 +17,17 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 
 <h4 align="center"><br>
     
-[![newbanner](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/320b96fe-db3e-4f02-9379-8713e2e36f6c)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
+[![newbanner](https://github.com/pxcs/pxcs/assets/151133481/320b96fe-db3e-4f02-9379-8713e2e36f6c)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
 <details>
 <summary><h4> 🦈 Gangsta Crew </h4></summary>
 <details>
 <summary><h4> ⛏️ Dev </h4></summary>
       
-[![brute-forcing](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/2ed5cd9b-78b0-4106-93a5-8ae0e5ef516a)](https://github.com/Sulaimannabdul/WannaCry2.0)
+[![brute-forcing](https://github.com/pxcs/pxcs/assets/151133481/2ed5cd9b-78b0-4106-93a5-8ae0e5ef516a)](https://github.com/Sulaimannabdul/WannaCry2.0)
 
-[![kerberos](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/317ea1b3-2e6d-4903-ae40-7c5219b46af0)](https:/github.com/Sulaimannabdul/KerberossianCracker)
+[![kerberos](https://github.com/pxcs/pxcs/assets/151133481/317ea1b3-2e6d-4903-ae40-7c5219b46af0)](https:/github.com/Sulaimannabdul/KerberossianCracker)
 
-[![test3](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/75e71c9e-b60d-405c-a30a-3ade8c820a6b)](https://doubleoctopus.com/security-wiki/threats-and-tools/https-spoofing/)
+[![test3](https://github.com/pxcs/pxcs/assets/151133481/75e71c9e-b60d-405c-a30a-3ade8c820a6b)](https://doubleoctopus.com/security-wiki/threats-and-tools/https-spoofing/)
 </details>
 </div>
 <a href="https://www.blackhat.com/us-23/spotlight.html">
@@ -50,7 +50,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 <br><br><br>
 
-[![test-min](https://github.com/Sulaimannabdul/Sulaimannabdul/assets/151133481/a7ae00bf-d150-48c1-b5b0-f3db0bab0012)](github.com/Sulaimannabdul)
+[![test-min](https://github.com/pxcs/pxcs/assets/151133481/a7ae00bf-d150-48c1-b5b0-f3db0bab0012)](github.com/pxcs)
 <div align="center">
 <details>
 <summary><h4> 🧰 General Tools </h4></summary><br>
@@ -115,13 +115,13 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="Kerberos" width="45px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
     <img align="center" alt="OniSpyware" width="38px" style="padding-right:10px;" src="https://bit.ly/3JVN8aN" />
     <img align="center" alt="Reaver" width="41px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231020/ourmid/pngtree-cute-grim-reaper-drawing-cartoon-grim-reaper-halloween-sticker-png-image_10300636.png" />
-    <img align="center" alt="EagleHawking" width="37px" style="padding-right:10px;" src="https://cdn.pixabay.com/photo/2023/10/18/22/47/eagle-8325208_1280.png" />
     <img align="center" alt="Botnetandroid" width="42px" style="padding-right:10px;" src="https://venom.software/wp-content/uploads/2022/10/anubis.png" />
+    <img align="center" alt="MITMattack" width="42px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" />
     <img align="center" alt="TimberDNS" width="43px" style="padding-right:10px;" src="https://bit.ly/3UqJY3n" />
-    <img align="center" alt="MITMattack" width="46px" style="padding-right:10px;" src="https://www.signustech.com/upimages/ckeditor/1629955396_DarkWebID.png" /></p>
+    <img align="center" alt="EagleHawking" width="40px" style="padding-right:10px;" src="https://www.montclair.edu/university-communications/wp-content/uploads/sites/144/2021/01/hawk-logo-color-2.svg" /></p>
     </details><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" width="550" height="2" />
         <details>
-        <summary><h5>⚡ <strong><em>Manace to Society</em></strong></h5></summary>
+        <summary><h5>⚡<strong><em>Manace to Society</em></strong></h5></summary>
  <p><img align="center" alt="KerberosPRO" width="52px" style="padding-right:10px;" src="https://revthandeka.org/wp-content/uploads/2019/08/cerberus-illustration.png" />
     <img align="center" alt="Pegasus2.0" width="50px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/13/Pegasus-PNG-Clipart.png" />
     <img align="center" alt="DarkFlipper" width="50px" style="padding-right:10px;" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png" />
@@ -137,12 +137,12 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <br> 
 <tr>
 <td align="center">
-<img src="https://github.com/Sulaimannabdul/Sulaimannabdul/blob/main/metrics.plugin.isocalendar.svg" />
+<img src="https://github.com/pxcs/pxcs/blob/main/metrics.plugin.isocalendar.svg" />
 </td>
 </tr>
 <br><br>
-    <a href="https://github.com/Sulaimannabdul">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sulaimannabdul&theme=vue&area=true&hide_border=true" /></a>
+    <a href="https://github.com/pxcs">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pxcs&theme=vue&area=true&hide_border=true" /></a>
     <details>
 <summary><h6><b>🔐 Hacking Achievement</b></h6></summary>
 <h6>🌥️<strong><em>Try Hack Me</em></strong></h6>
