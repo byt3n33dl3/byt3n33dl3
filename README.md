@@ -159,7 +159,11 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="Privilege-Escalation" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/stand-above-all.png" />
     <img align="center" alt="detecting-windows-attacks" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/bbc2198760a18abd0a8110a605475b95/logo.png" />
     <img align="center" alt="cbbh" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/53e123c999a8919ef940ed50d9807337/logo.png" />
-    <img align="center" alt="cpts" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" /><br>
+    <img align="center" alt="cpts" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" /><br><br>
+    <hr>
+    <h6><strong><em>Black hat hackers are bad actors who break into computer networks with malicious intent.</em></strong></h6><br>
+        
+[![Assets](https://github.com/pxcs/pxcs/assets/151133481/c5e53014-c0f3-4ba3-88c2-4ce3d09cc0a2)](https://cybersecurityventures.com/intrusion-daily-cyber-threat-alert/)
 </div>
 <div align="left">
 </details>
