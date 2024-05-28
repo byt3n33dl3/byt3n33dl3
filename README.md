@@ -1,6 +1,6 @@
 <div align="center">
     
-[![P3X](https://github.com/pxcs/pxcs/assets/151133481/5b36b6c4-c224-4401-8681-cb4795b1668f)](https://www.interpol.int/Crimes/Cybercrime)</div>
+[![PX](https://github.com/pxcs/pxcs/assets/151133481/36a58c73-20fb-4ab3-be94-1bfdc101bb33)](https://www.interpol.int/Crimes/Cybercrime)</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" width="1000" height="2" />
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 </h1>
 
 - 🥷🏻 ***~Offensive Cyber Attacks~***
-- 🛑 ***Pentesting*** & ***Vulnerability Expo***
+- 🛑 ***Pentester*** & ***Vulnerability Expo***
 - 💠 ***Debian based*** | [***Kali, Parrot O.S***](https://academy.hackthebox.com/achievement/badge/2ec51d1d-0e37-11ef-b18d-bea50ffe6cb4)
 
 Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/1e8fd2d6-0e42-11ef-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
@@ -17,7 +17,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 
 <h4 align="center"><br>
     
-[![wallpaper_gangsta](https://github.com/pxcs/pxcs/assets/151133481/55aea716-2620-46bc-bb8f-997a0986b15a)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
+[![GCB](https://github.com/pxcs/pxcs/assets/151133481/9143c846-6656-41e4-9d7c-00bfa7eeb9a3)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
 <details>
 <summary><h4> 🦈 Gangsta Crew </h4></summary>
 <details>
@@ -72,11 +72,11 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <img align="center" alt="ParrotOS" width="28px" style="padding-right:10px;" src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" />
 <img align="center" alt="BackBox" width="27px" style="padding-right:10px;" src="https://freepngimg.com/thumb/gnome/59140-backbox-operating-systems-linux-distribution-mint.png" />
 <img align="center" alt="Metasploit" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
+<img align="center" alt="HashCat" width="27px" style="padding-right:10px;" src="https://github.com/pxcs/pxcs/assets/151133481/346a3489-a5a4-4e3d-9de7-1ffdc68af5d2" />
 <img align="center" alt="JohnTheRipper" width="28px" style="padding-right:10px;" src="https://www.kali.org/tools/john/images/john-logo.svg" />
 <img align="center" alt="Intruder" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/39119616?s=200&v=4" />
-<img align="center" alt="Airgeddon" width="26px" style="padding-right:10px;" src="https://www.kali.org/tools/airgeddon/images/airgeddon-logo.svg" />
-<img align="center" alt="Legion" width="26px" style="padding-right:10px;" src="https://www.kali.org/tools/legion/images/legion-logo.svg" />
-<img align="center" alt="Pegasus" width="27px" style="padding-right:10px;" src="https://www.pngkey.com/png/full/171-1710994_pegasus-png-download-image-horse.png" /><br><br>
+<img align="center" alt="TroloJan" width="26px" style="padding-right:10px;" src="https://github.com/pxcs/pxcs/assets/151133481/5f427959-97d8-4ea3-8759-4224219917ea" />
+<img align="center" alt="Airgeddon" width="26px" style="padding-right:10px;" src="https://www.kali.org/tools/airgeddon/images/airgeddon-logo.svg" /><br><br>
 <img align="center" alt="Nikto" width="32px" style="padding-right:10px;" src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" />
 <img align="center" alt="Nmap" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" />
 <img align="center" alt="KeyScore" width="32px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/97/XKeyscore_backround_removed.png" />
@@ -94,15 +94,15 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <img align="center" alt="Clang" width="33px" style="padding-right:10px;" src="https://llvm.org/img/DragonMedium.png" />
 <img align="center" alt="ProxyChains" width="32px" style="padding-right:10px;" src="https://gitlab.com/uploads/-/system/project/avatar/11903991/kali-proxychains.png" />
 <img align="center" alt="MasScan" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/masscan/images/masscan-logo.svg" />
-<img align="center" alt="GuruTrojan" width="30px" style="padding-right:10px;" src="https://static.vecteezy.com/system/resources/previews/023/974/944/original/samurai-mask-illustration-png.png" /><br><br>
+<img align="center" alt="GuruTrojan" width="30px" style="padding-right:10px;" src="https://github.com/pxcs/pxcs/assets/151133481/ee6e7c80-68f3-41a7-b6e5-e85424cf95c9" /><br><br>
 <img align="center" alt="Hydra" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
 <img align="center" alt="CrackmapExec" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" />
 <img align="center" alt="Ettercap" width="33px" style="padding-right:10px;" src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" />
 <img align="center" alt="JokerSpyware" width="30px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-the-joker-vector-png-image_6882698.png" />
 <img align="center" alt="Pixiewps" width="30px" style="padding-right:10px;" src="https://www.kali.org/tools/pixiewps/images/pixiewps-logo.svg" />
-<img align="center" alt="Hiddeneye" width="30px" style="padding-right:10px;" src="https://bit.ly/3WhpUTU" />
 <img align="center" alt="DarkVSCode" width="28px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/visual-studio-icon-256x255-fpc5q7fs.png" />
-<img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://i.pinimg.com/originals/3a/96/0c/3a960cda627ddb80b65e1649174c3bed.png" /><br><br>
+<img align="center" alt="Hiddeneye" width="30px" style="padding-right:10px;" src="https://bit.ly/3WhpUTU" />
+<img align="center" alt="Smilodon" width="30px" style="padding-right:10px;" src="https://github.com/pxcs/pxcs/assets/151133481/4b8192f6-c4b9-4289-9b2e-e0f33a3587e9" /><br><br>
 <details>
 <summary><h4><b>🪬 Reaper Scythe</b></h4></summary>
     <details>
@@ -113,8 +113,8 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="DACL" width="45px" style="padding-right:10px;" src="https://github.com/pxcs/pxcs/assets/151133481/6f8ac93b-e7d4-4c4a-84f6-25fc9bfe2018" />
     <img align="center" alt="CraxsRat" width="40px" style="padding-right:10px;" src="https://venom.software/wp-content/uploads/2023/01/craxs-logo.png" />
     <img align="center" alt="Kerberos" width="45px" style="padding-right:10px;" src="https://images.ctfassets.net/5owu3y35gz1g/6WRxehYWOAoadFucK9Wv9J/df264ff6f8559c85bb4fc69ce8f24b5c/Hades_About_Image_01.png" /><br><br>
-    <img align="center" alt="OniSpyware" width="38px" style="padding-right:10px;" src="https://bit.ly/3JVN8aN" />
-    <img align="center" alt="Reaver" width="41px" style="padding-right:10px;" src="https://png.pngtree.com/png-vector/20231020/ourmid/pngtree-cute-grim-reaper-drawing-cartoon-grim-reaper-halloween-sticker-png-image_10300636.png" />
+    <img align="center" alt="Reaver" width="41px" style="padding-right:10px;" src="https://github.com/pxcs/pxcs/assets/151133481/d020e56f-a967-4980-b888-8223daa6d996" />
+    <img align="center" alt="OniSpyware" width="38px" style="padding-right:10px;" src="https://github.com/pxcs/pxcs/assets/151133481/1dd5ee38-b8dc-4b3e-ac01-c04d27d44f14" />
     <img align="center" alt="Botnetandroid" width="42px" style="padding-right:10px;" src="https://venom.software/wp-content/uploads/2022/10/anubis.png" />
     <img align="center" alt="TimberDNS" width="43px" style="padding-right:10px;" src="https://bit.ly/3UqJY3n" />
     <img align="center" alt="MITMattack" width="42px" style="padding-right:10px;" src="https://github.com/pxcs/pxcs/assets/151133481/c8a9ddb2-74fe-4d6a-aaec-04eee311f08a" />
