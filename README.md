@@ -1,13 +1,13 @@
 <div align="center">
-    
-[![PX](https://github.com/pxcs/pxcs/assets/151133481/36a58c73-20fb-4ab3-be94-1bfdc101bb33)](https://www.interpol.int/Crimes/Cybercrime)</div>
+
+[![PX](https://github.com/pxcs/intro/assets/151133481/32dd204f-ed1e-4371-8979-27e8095cac7b)](https://www.interpol.int/Crimes/Cybercrime)</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" width="1000" height="2" />
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Exo+2&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=3CEAFF&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
-- 🥷🏻 ***~Offensive Cyber Attacks~***
+- 🥷🏻 ***~Offensive Cyber Attack~***
 - 🛑 ***Pentester*** & ***Vulnerability Expo***
 - 💠 ***Debian based*** | [***Kali, Parrot O.S***](https://academy.hackthebox.com/achievement/badge/2ec51d1d-0e37-11ef-b18d-bea50ffe6cb4)
 
@@ -16,18 +16,18 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <hr>
 
 <h4 align="center"><br>
-    
-[![GCB](https://github.com/pxcs/pxcs/assets/151133481/9143c846-6656-41e4-9d7c-00bfa7eeb9a3)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
+
+[![GCB](https://github.com/pxcs/intro/assets/151133481/5d48967c-a58e-4630-a280-81b8923f1d67)](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
 <details>
 <summary><h4> 🦈 Gangsta Crew </h4></summary>
 <details>
 <summary><h4> ⛏️ Dev </h4></summary>
       
-[![brute-forcing](https://github.com/pxcs/pxcs/assets/151133481/2ed5cd9b-78b0-4106-93a5-8ae0e5ef516a)](https://github.com/Sulaimannabdul/WannaCry2.0)
+[![brute-forcing](https://github.com/pxcs/intro/assets/151133481/8501f603-6390-4851-9c18-d0b2009c600a)](https://github.com/Sulaimannabdul/WannaCry2.0)
 
-[![kerberos](https://github.com/pxcs/pxcs/assets/151133481/317ea1b3-2e6d-4903-ae40-7c5219b46af0)](https:/github.com/Sulaimannabdul/KerberossianCracker)
+[![kerberos](https://github.com/pxcs/intro/assets/151133481/693e41fa-f360-404e-b4df-36fcc3e60a9e)](https:/github.com/Sulaimannabdul/KerberossianCracker)
 
-[![test3](https://github.com/pxcs/pxcs/assets/151133481/75e71c9e-b60d-405c-a30a-3ade8c820a6b)](https://doubleoctopus.com/security-wiki/threats-and-tools/https-spoofing/)
+[![test3](https://github.com/pxcs/intro/assets/151133481/1f239478-540b-4fe0-98e8-1538762d6cb8)](https://doubleoctopus.com/security-wiki/threats-and-tools/https-spoofing/)
 </details>
 </div>
 <a href="https://www.blackhat.com/us-23/spotlight.html">
@@ -50,7 +50,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 <br><br><br>
 
-[![test-min](https://github.com/pxcs/pxcs/assets/151133481/a7ae00bf-d150-48c1-b5b0-f3db0bab0012)](github.com/pxcs)
+[![test-min](https://github.com/pxcs/intro/assets/151133481/a516efb4-a8d3-490d-afa6-ff8475b81638)](github.com/pxcs)
 <div align="center">
 <details>
 <summary><h4> 🧰 General Tools </h4></summary><br>
@@ -161,9 +161,9 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="cbbh" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/53e123c999a8919ef940ed50d9807337/logo.png" />
     <img align="center" alt="cpts" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" /><br><br>
     <hr>
-    <h6><strong><em>Black hat hackers are bad actors who break into computer networks with malicious intent.</em></strong></h6><br>
-        
-[![Assets](https://github.com/pxcs/pxcs/assets/151133481/c5e53014-c0f3-4ba3-88c2-4ce3d09cc0a2)](https://cybersecurityventures.com/intrusion-daily-cyber-threat-alert/)
+    <h6><strong><em>Black hat hackers are bad actors, who break into computer networks with malicious intent.</em></strong></h6><br>
+
+[![Assets](https://github.com/pxcs/intro/assets/151133481/af9f3c62-940c-419d-bebe-577bd90c2b43)](https://cybersecurityventures.com/intrusion-daily-cyber-threat-alert/)
 </div>
 <div align="left">
 </details>
