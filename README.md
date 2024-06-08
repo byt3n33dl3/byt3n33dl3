@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Exo+2&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=3CEAFF&lines=Hi+There!👾+;+Welcome+to+my+Github!;" />
 </h1>
 
-- 🥷🏻 ***~Offensive Cyber Attack~***
+- 🥷🏻 ***~Offensive Cyber Attacks~***
 - 🛑 ***Pentester*** & ***Vulnerability Expo***
 - 💠 ***Debian based*** | [***Kali, Parrot O.S***](https://academy.hackthebox.com/achievement/badge/2ec51d1d-0e37-11ef-b18d-bea50ffe6cb4)
 
@@ -27,7 +27,9 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 
 [![kerberos](https://github.com/pxcs/intro/assets/151133481/693e41fa-f360-404e-b4df-36fcc3e60a9e)](https:/github.com/Sulaimannabdul/KerberossianCracker)
 
-[![test3](https://github.com/pxcs/intro/assets/151133481/1f239478-540b-4fe0-98e8-1538762d6cb8)](https://doubleoctopus.com/security-wiki/threats-and-tools/https-spoofing/)
+[![BME](https://github.com/pxcs/pxcs/assets/151133481/0ee57c3b-4528-413b-91e6-22f289990ca9)](https://github.com/pxcs/BlackMarlinExec)
+
+[![https-attack](https://github.com/pxcs/intro/assets/151133481/1f239478-540b-4fe0-98e8-1538762d6cb8)](https://doubleoctopus.com/security-wiki/threats-and-tools/https-spoofing/)
 </details>
 </div>
 <a href="https://www.blackhat.com/us-23/spotlight.html">
@@ -50,7 +52,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 <br><br><br>
 
-[![test-min](https://github.com/pxcs/intro/assets/151133481/a516efb4-a8d3-490d-afa6-ff8475b81638)](github.com/pxcs)
+[![black_hatorg](https://github.com/pxcs/intro/assets/151133481/a516efb4-a8d3-490d-afa6-ff8475b81638)](github.com/pxcs)
 <div align="center">
 <details>
 <summary><h4> 🧰 General Tools </h4></summary><br>
@@ -137,10 +139,10 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
 <br> 
 <tr>
 <td align="center">
-<img src="https://github.com/pxcs/intro/assets/151133481/327cb2ea-8801-4465-b951-144c1f7b6df9" />
+<img src="https://github.com/pxcs/pxcs/assets/151133481/713581b9-a222-4938-950b-3e7f1b76a01e" />
 </td>
 </tr>
-<br><br>
+<br>
     <a href="https://github.com/pxcs">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=pxcs&bg_color=ff2828&color=ffffff&line=d5d5d5&point=600204&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
     <details>
@@ -161,7 +163,7 @@ Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/a
     <img align="center" alt="cbbh" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/53e123c999a8919ef940ed50d9807337/logo.png" />
     <img align="center" alt="cpts" width="50px" style="padding-right:10px;" src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" /><br><br>
     <hr>
-    <h6><strong><em>Black hat hackers are bad actors, who break into computer networks with malicious intent.</em></strong></h6><br>
+    <h6><strong><em>Black hat hackers, Offensive cyber attacks.</em></strong></h6><br>
 
 [![Assets](https://github.com/pxcs/intro/assets/151133481/af9f3c62-940c-419d-bebe-577bd90c2b43)](https://cybersecurityventures.com/intrusion-daily-cyber-threat-alert/)
 </div>
