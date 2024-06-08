@@ -9,9 +9,9 @@
 
 - 🥷🏻 ***~Offensive Cyber Attacks~***
 - 🛑 ***Pentester*** & ***Vulnerability Expo***
-- 💠 ***Debian based*** | [***Kali, Parrot O.S***](https://academy.hackthebox.com/achievement/badge/2ec51d1d-0e37-11ef-b18d-bea50ffe6cb4)
+- 💠 ***Debian based*** | [***Kali, Parrot_O.S***](https://academy.hackthebox.com/achievement/badge/2ec51d1d-0e37-11ef-b18d-bea50ffe6cb4)
 
-Keen interest in the role of [***Bug Bounty***](https://academy.hackthebox.com/achievement/badge/1e8fd2d6-0e42-11ef-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
+Keen interest in the role of [***Bug_Hunter***](https://academy.hackthebox.com/achievement/badge/1e8fd2d6-0e42-11ef-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/91423995-fcc8-11ee-b18d-bea50ffe6cb4) Currently learning ***front end*** role as practice. ***Cipi cipi, Chapa D~ubi~du*** 🔱
 
 <hr>
 
