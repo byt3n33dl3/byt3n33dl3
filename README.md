@@ -10,7 +10,7 @@
 - 🥷🏻 ***Offensive Security***
 - 🛑 ***Pentester*** & ***Exploiting***
 
-*Keen* interest in **Offensive Security** && **Red Teaming** | [***Bug_Hunting***](https://academy.hackthebox.com/achievement/badge/1e8fd2d6-0e42-11ef-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/61d8b924-2ed0-11ef-b18d-bea50ffe6cb4) 🔱
+*Keen* interest in **Offensive Security** && **Red Teaming** | Bug [***Hunting***](https://academy.hackthebox.com/achievement/badge/1e8fd2d6-0e42-11ef-b18d-bea50ffe6cb4) and [***Pentester***.](https://academy.hackthebox.com/achievement/badge/61d8b924-2ed0-11ef-b18d-bea50ffe6cb4) 🔱
 
 <hr>
 <h4 align="center"><br>
