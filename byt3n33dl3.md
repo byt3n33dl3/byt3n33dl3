@@ -2,7 +2,7 @@
 /*
  * README.md
  *
- * Author: pxcs (Sulaiman)
+ * Author: byt3n33dl3 (Sulaiman)
  * File Purpose: Introduction of Ethical Hacker
  * Language: Markdown (but made to look like C)
  * 
@@ -22,7 +22,7 @@
 #define ROLE        "Ethical Hacker"
 #define SPECIALTY   "Penetration Testing | Security Engineer | Cyber Security"
 #define MISSION     "Making the digital world a safer place, Just Kidding!"
-#define CONTACT     "pxmxx3csz@outlook.com"
+#define CONTACT     "byt3n33dl3@proton.me"
 
 // Main Function
 int main(void) {
@@ -45,10 +45,10 @@ int main(void) {
     printf("- Open Source Security Tools\n");
     printf("- Vulnerability Analysis Scripts\n");
     printf("- CTF Challenges and Writeups\n");
-    printf("- s.id/byt3bl33d3r\n");
+    printf("- s.id/byt3n33dl3\n");
 
     // Contact Info
-    printf("Feel free to reach out: pxmxx3csz@outlook.com %s\n", CONTACT);
+    printf("Feel free to reach out: byt3n33dl3@proton.me %s\n", CONTACT);
 
     // Exit gracefully
     return 0;
