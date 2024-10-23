@@ -1,5 +1,5 @@
 <a href="https://github.com/byt3n33dl3/"><p align="center">
-<img src="/domain/cme.jpg">
+<img src="/blackmarlinexec.png">
 </p></a>
 
 <p align="center">
