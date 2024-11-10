@@ -1,5 +1,5 @@
 <a href="https://github.com/byt3n33dl3/"><p align="center">
-<img src="/bme.png">
+<img src="/sharp.png">
 </p></a>
 
 <p align="center">
