@@ -2,8 +2,9 @@
 <img src="/bmexec.png">
 </p></a>
 
-<div align="center"><a href="mailto:byt3n33dl3@proton.me">
-byt3n33dl3@pm.me
+<div align="center">
+  <a href="https://byt3exec.github.io">byt3n33dl3.me</a> •
+  <a href="mailto:byt3n33dl3@proton.me">byt3n33dl3@pm.me</a>
 <p></div>
 
 <p align="center">
