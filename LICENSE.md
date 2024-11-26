@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href=https://github.com/byt3n33dl3><img src="/domain/offensive-security.png" alt="byt3n33dl3" width="280px">
+  <a href=https://github.com/byt3n33dl3><img src="/domain/offensive-security.png" alt="byt3n33dl3" width="300px">
   <br>
 </h1>
 
