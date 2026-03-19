@@ -5,7 +5,6 @@
 </p>
 
 <div align="center">
-  <a href="https://byt3.guru">byt3.guru</a> •
   <a href="mailto:me@byt3.guru">me@byt3.guru</a>
 <p></div>
 
