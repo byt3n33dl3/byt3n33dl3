@@ -1,10 +1,12 @@
-<a href="https://github.com/byt3n33dl3"><p align="center">
-<img src="/bme-flag.png">
-</p></a>
+<p align="center">
+    <picture>
+        <img src="./stylesheet/img/main-plain.png" alt="spider"/>
+    </picture>
+</p>
 
 <div align="center">
-  <a href="https://byt3n33dl3.me">byt3n33dl3.me</a> •
-  <a href="mailto:byt3n33dl3@pm.me">byt3n33dl3@pm.me</a>
+  <a href="https://byt3.guru">byt3.guru</a> •
+  <a href="mailto:me@byt3.guru">me@byt3.guru</a>
 <p></div>
 
 <p align="center">

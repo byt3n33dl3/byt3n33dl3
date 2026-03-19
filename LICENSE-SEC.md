@@ -1,6 +1,6 @@
-University of Illinois/NCSA Open Source License
+Open Source License
 
-Copyright (c) 2024 @byt3n33dl3 All rights reserved.
+Copyright (c) 2024-2026 <@byt3n33dl3> All rights reserved.
 
 Developed by: @byt3n33dl3
 
