@@ -1,6 +1,6 @@
 <p align="center">
     <picture>
-        <img src="./stylesheet/img/crest-accredited.png" alt="crest"/>
+        <img src="./stylesheet/img/crest-accredited.png" alt="crest" style="width: 280px; height: auto;"/>
     </picture>
 </p>
 
